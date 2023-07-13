@@ -30,34 +30,34 @@ Welcome to the passkey index, a community initiative to surface new websites and
 | Authgear | [https://accounts.portal.authgearapps.com/login](https://accounts.portal.authgearapps.com/login) |
 | Best Buy | [https://www.bestbuy.com/identity/signin](https://www.bestbuy.com/identity/signin) |
 | Beyond Identity | [https://console-us.beyondidentity.com/signup](https://console-us.beyondidentity.com/signup) |
-| Braunhousehold | [Braunhousehold.com](https://preview-bitwarden.gatsbyjs.io/blog/passkey-index-by-bitwarden/Braunhousehold.com) |
+| Braunhousehold | [Braunhousehold.com](https://Braunhousehold.com) |
 | Card Pointers | [https://cardpointers.com/login/](https://cardpointers.com/login/) |
-| Carnival | [Carnival.com](https://preview-bitwarden.gatsbyjs.io/blog/passkey-index-by-bitwarden/Carnival.com) |
+| Carnival | [Carnival.com](https://Carnival.com) |
 | Corbado | [https://app.corbado.com/signin](https://app.corbado.com/signin) |
 | Daylite | [https://www.marketcircle.com/account/login](https://www.marketcircle.com/account/login) |
-| Dinero | [dinero.dk](https://preview-bitwarden.gatsbyjs.io/blog/passkey-index-by-bitwarden/dinero.dk%C2%A0) |
-| Docomo | [id.smt.docom.ne.jp](http://id.smt.docom.ne.jp/) |
+| Dinero | [dinero.dk](https://dinero.dk) |
+| Docomo | [https://www.docomo.ne.jp/english/](https://www.docomo.ne.jp/english/) |
 | DocuSign | [https://account.docusign.com/](https://account.docusign.com/) |
 | eBay | [https://signin.ebay.com/ws/eBayISAPI.dll](https://signin.ebay.com/ws/eBayISAPI.dll) |
 | FormX.ai | [https://auth.formextractorai.com/login](https://auth.formextractorai.com/login) |
+| GitHub | [GitHub.com](https://docs.github.com/en/authentication/authenticating-with-a-passkey/signing-in-with-a-passkey) |
 | GoDaddy | [https://sso.godaddy.com/](https://sso.godaddy.com/) |
 | Hanko | [https://cloud.hanko.io/login](https://cloud.hanko.io/login) |
-| Horizon Pics | [horizon.pics](https://preview-bitwarden.gatsbyjs.io/blog/passkey-index-by-bitwarden/horizon.pics) |
+| Horizon Pics | [horizon.pics](https://horizon.pics) |
 | Kayak | [https://www.kayak.com/](https://www.kayak.com/) |
-| Kenwoodworld.com | [Kenwoodworld.com](https://preview-bitwarden.gatsbyjs.io/blog/passkey-index-by-bitwarden/Kenwoodworld.com) |
-| Laakari.chat | [lakari.chat](https://preview-bitwarden.gatsbyjs.io/blog/passkey-index-by-bitwarden/lakari.chat) |
+| Kenwoodworld.com | [Kenwoodworld.com](https://Kenwoodworld.com) |
+| Laakari.chat | [laakari.chat](https://laakari.chat) |
 | Mangadex | [mangadex.org](http://mangadex.org/) |
 | Microsoft | [microsoft.com](http://microsoft.com/) |
 | Money Forward ID | [https://id.moneyforward.com/sign\_in/new](https://id.moneyforward.com/sign_in/new) |
 | Nvidia | [nvidia.com](http://nvidia.com/) |
 | Okta | [okta.com](http://okta.com/) |
-| Omg.lol | [omg.lol](https://preview-bitwarden.gatsbyjs.io/blog/passkey-index-by-bitwarden/omg.lol) |
+| Omg.lol | [omg.lol](https://omg.lol) |
 | Pastry | [pastry.net](http://pastry.net/) |
 | PayPal | [https://www.paypal.com/signin/](https://www.paypal.com/signin/) |
 | Qapital | [qapital.com](http://qapital.com/) |
 | Robinhood | [https://robinhood.com/login](https://robinhood.com/login) |
-| Scrooge Games | [scrooge.games](https://preview-bitwarden.gatsbyjs.io/blog/passkey-index-by-bitwarden/scrooge.games) |
-| Shop Pay | [shop.app](https://preview-bitwarden.gatsbyjs.io/blog/passkey-index-by-bitwarden/shop.app%C2%A0) |
+| Shop Pay | [shop.app](https://shop.app) |
 | Shopify | [https://accounts.shopify.com/lookup](https://accounts.shopify.com/lookup) |
 | The Hendrix | [thehendrixjc.com](http://thehendrixjc.com/) |
 | Trusona Authentication Cloud | [trusona.com](http://trusona.com/) |
