@@ -59,6 +59,7 @@ Welcome to the passkey index, a community initiative to surface new websites and
 | Scrooge Games | [scrooge.games](https://preview-bitwarden.gatsbyjs.io/blog/passkey-index-by-bitwarden/scrooge.games) |
 | Shop Pay | [shop.app](https://preview-bitwarden.gatsbyjs.io/blog/passkey-index-by-bitwarden/shop.app%C2%A0) |
 | Shopify | [https://accounts.shopify.com/lookup](https://accounts.shopify.com/lookup) |
+| TikTok | [tiktok.com](https://newsroom.tiktok.com/en-us/passkeys-fido-alliance)
 | The Hendrix | [thehendrixjc.com](http://thehendrixjc.com/) |
 | Trusona Authentication Cloud | [trusona.com](http://trusona.com/) |
 | Vault Vision | [vaultvision.com](http://vaultvision.com/) |
