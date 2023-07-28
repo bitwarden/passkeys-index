@@ -62,6 +62,7 @@ This is a living list. If you are aware of other solutions, websites or platform
 | Robinhood | [https://robinhood.com/login](https://robinhood.com/login) |
 | Shop Pay | [shop.app](https://shop.app) |
 | Shopify | [https://accounts.shopify.com/lookup](https://accounts.shopify.com/lookup) |
+| TikTok | [tiktok.com](https://newsroom.tiktok.com/en-us/passkeys-fido-alliance)
 | The Hendrix | [thehendrixjc.com](http://thehendrixjc.com/) |
 | Trusona Authentication Cloud | [trusona.com](http://trusona.com/) |
 | Vault Vision | [vaultvision.com](http://vaultvision.com/) |
