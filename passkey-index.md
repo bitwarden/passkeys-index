@@ -30,13 +30,16 @@ This is a living list. If you are aware of other solutions, websites or platform
 | Site name | URL |
 | --- | --- |
 | Arpari | [https://app.arpari.com/login](https://app.arpari.com/login) |
+| Amazon | [https://www.amazon.com/](https://www.amazon.com/) |
 | Authgear | [https://accounts.portal.authgearapps.com/login](https://accounts.portal.authgearapps.com/login) |
 | Best Buy | [https://www.bestbuy.com/identity/signin](https://www.bestbuy.com/identity/signin) |
 | Beyond Identity | [https://console-us.beyondidentity.com/signup](https://console-us.beyondidentity.com/signup) |
 | Braunhousehold | [Braunhousehold.com](https://Braunhousehold.com) |
 | Card Pointers | [https://cardpointers.com/login/](https://cardpointers.com/login/) |
 | Carnival | [Carnival.com](https://Carnival.com) |
+| Coinbase | [https://www.coinbase.com/](https://www.coinbase.com/) |
 | Corbado | [https://app.corbado.com/signin](https://app.corbado.com/signin) |
+| CVS | [https://www.cvs.com/](https://www.cvs.com/)
 | Daylite | [https://www.marketcircle.com/account/login](https://www.marketcircle.com/account/login) |
 | Dinero | [dinero.dk](https://dinero.dk) |
 | Docomo | [https://www.docomo.ne.jp/english/](https://www.docomo.ne.jp/english/) |
@@ -45,14 +48,18 @@ This is a living list. If you are aware of other solutions, websites or platform
 | FormX.ai | [https://auth.formextractorai.com/login](https://auth.formextractorai.com/login) |
 | GitHub | [GitHub.com](https://docs.github.com/en/authentication/authenticating-with-a-passkey/signing-in-with-a-passkey) |
 | GoDaddy | [https://sso.godaddy.com/](https://sso.godaddy.com/) |
+| Google | [https://www.google.com/](https://www.google.com/)
 | Hanko | [https://cloud.hanko.io/login](https://cloud.hanko.io/login) |
+| Home Depot | [https://www.homedepot.com/](https://www.homedepot.com/) |
 | Horizon Pics | [horizon.pics](https://horizon.pics) |
+| Instacart | [https://www.instacart.com/](https://www.instacart.com/) |
 | Kayak | [https://www.kayak.com/](https://www.kayak.com/) |
 | Kenwoodworld.com | [Kenwoodworld.com](https://Kenwoodworld.com) |
 | Laakari.chat | [laakari.chat](https://laakari.chat) |
 | Mangadex | [mangadex.org](http://mangadex.org/) |
 | Microsoft | [microsoft.com](http://microsoft.com/) |
 | Money Forward ID | [https://id.moneyforward.com/sign\_in/new](https://id.moneyforward.com/sign_in/new) |
+| Nintendo | [https://www.nintendo.com/](https://www.nintendo.com/) |
 | Nvidia | [nvidia.com](http://nvidia.com/) |
 | Okta | [okta.com](http://okta.com/) |
 | Omg.lol | [omg.lol](https://omg.lol) |
@@ -65,11 +72,12 @@ This is a living list. If you are aware of other solutions, websites or platform
 | TikTok | [tiktok.com](https://newsroom.tiktok.com/en-us/passkeys-fido-alliance)
 | The Hendrix | [thehendrixjc.com](http://thehendrixjc.com/) |
 | Trusona Authentication Cloud | [trusona.com](http://trusona.com/) |
+| Uber | [https://www.uber.com/](https://www.uber.com/) |
 | Vault Vision | [vaultvision.com](http://vaultvision.com/) |
 | Virgin Media | [virginmedia.com](http://virginmedia.com/) |
 | WebAuthn.io | [webauthn.io](http://webauthn.io/) |
 | World of Hyatt | [hyatt.com](http://hyatt.com/) |
-| Yahoo! JAPAN | [yahoo.co.jp](http://yahoo.co.jp/) |
+| Yahoo! | [https://www.yahoo.com/](https://www.yahoo.com/) |
 | Zoho | [zoho.com](http://zoho.com/) |
 | Virgin Media | [https://www.virginmedia.com/](https://www.virginmedia.com/) |
 
@@ -79,5 +87,5 @@ This is a living list. If you are aware of other solutions, websites or platform
 
 ### **Security keys**
 
-- FIDO2
+- SoloKeys
 - Yubico
