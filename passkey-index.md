@@ -25,7 +25,7 @@ This is a living list. If you are aware of other solutions, websites or platform
 - Safari
 - Developer [Documentation](https://developer.apple.com/documentation/authenticationservices/public-private_key_authentication/supporting_passkeys)
 
-### **Websites**
+### **Websites supporting passkey login**
 
 | Site name | URL |
 | --- | --- |
@@ -65,11 +65,13 @@ This is a living list. If you are aware of other solutions, websites or platform
 | Omg.lol | [omg.lol](https://omg.lol) |
 | Pastry | [pastry.net](http://pastry.net/) |
 | PayPal | [https://www.paypal.com/signin/](https://www.paypal.com/signin/) |
+| Privacy Guides forum | [Privacy Guides forum](https://discuss.privacyguides.net/) |
 | Qapital | [qapital.com](http://qapital.com/) |
 | Robinhood | [https://robinhood.com/login](https://robinhood.com/login) |
 | Shop Pay | [shop.app](https://shop.app) |
 | Shopify | [https://accounts.shopify.com/lookup](https://accounts.shopify.com/lookup) |
-| TikTok | [tiktok.com](https://newsroom.tiktok.com/en-us/passkeys-fido-alliance)
+| Techlore Discussions | [Techlore Discussions](https://discuss.techlore.tech/) |
+| TikTok | [tiktok.com](https://newsroom.tiktok.com/en-us/passkeys-fido-alliance) |
 | The Hendrix | [thehendrixjc.com](http://thehendrixjc.com/) |
 | Trusona Authentication Cloud | [trusona.com](http://trusona.com/) |
 | Uber | [https://www.uber.com/](https://www.uber.com/) |
@@ -79,8 +81,6 @@ This is a living list. If you are aware of other solutions, websites or platform
 | World of Hyatt | [hyatt.com](http://hyatt.com/) |
 | Yahoo! | [https://www.yahoo.com/](https://www.yahoo.com/) |
 | Zoho | [zoho.com](http://zoho.com/) |
-| Vanguard | [vanguard.com](https://vanguard.com/) |
-| Virgin Media | [https://www.virginmedia.com/](https://www.virginmedia.com/) |
 
 ### **Developer tools**
 
