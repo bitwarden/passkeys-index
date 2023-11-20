@@ -81,7 +81,7 @@ This is a living list. If you are aware of other solutions, websites or platform
 | World of Hyatt | [hyatt.com](http://hyatt.com/) |
 | Yahoo! | [https://www.yahoo.com/](https://www.yahoo.com/) |
 | Zoho | [zoho.com](http://zoho.com/) |
-| Synology DSM | [synology.com/en-global/dsm](https://www.synology.com/en-global/dsm) |
+| Synology DSM | [https://www.synology.com/en-global/dsm](https://www.synology.com/en-global/dsm) |
 
 ### **Developer tools**
 
