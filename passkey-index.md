@@ -34,6 +34,7 @@ This is a living list. If you are aware of other solutions, websites or platform
 | Authgear | [https://accounts.portal.authgearapps.com/login](https://accounts.portal.authgearapps.com/login) |
 | Best Buy | [https://www.bestbuy.com/identity/signin](https://www.bestbuy.com/identity/signin) |
 | Beyond Identity | [https://console-us.beyondidentity.com/signup](https://console-us.beyondidentity.com/signup) |
+| BoursoBank | [https://clients.boursobank.com/](https://clients.boursobank.com/)|
 | Braunhousehold | [Braunhousehold.com](https://Braunhousehold.com) |
 | Card Pointers | [https://cardpointers.com/login/](https://cardpointers.com/login/) |
 | Carnival | [Carnival.com](https://Carnival.com) |
