@@ -71,6 +71,7 @@ This is a living list. If you are aware of other solutions, websites or platform
 | Robinhood | [https://robinhood.com/login](https://robinhood.com/login) |
 | Shop Pay | [shop.app](https://shop.app) |
 | Shopify | [https://accounts.shopify.com/lookup](https://accounts.shopify.com/lookup) |
+| Synology DSM | [https://www.synology.com/en-global/dsm](https://www.synology.com/en-global/dsm) |
 | Techlore Discussions | [Techlore Discussions](https://discuss.techlore.tech/) |
 | TikTok | [tiktok.com](https://newsroom.tiktok.com/en-us/passkeys-fido-alliance) |
 | The Hendrix | [thehendrixjc.com](http://thehendrixjc.com/) |
@@ -82,7 +83,6 @@ This is a living list. If you are aware of other solutions, websites or platform
 | World of Hyatt | [hyatt.com](http://hyatt.com/) |
 | Yahoo! | [https://www.yahoo.com/](https://www.yahoo.com/) |
 | Zoho | [zoho.com](http://zoho.com/) |
-| Synology DSM | [https://www.synology.com/en-global/dsm](https://www.synology.com/en-global/dsm) |
 
 ### **Developer tools**
 
