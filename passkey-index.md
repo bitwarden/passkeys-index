@@ -27,13 +27,14 @@ This is a living list. If you are aware of other solutions, websites or platform
 
 ### **Websites supporting passkey login**
 
-| Site | Instructions |
-| --- | --- |
+| Site | Instructions | Comment |
+| --- | --- | --- |
 | [Arpari](https://app.arpari.com/login) |
-| [Amazon](https://www.amazon.com/) |
+| [Amazon](https://www.amazon.com/) | Account & Lists > Account > Login & security > Passkey: Set up | Not available for everyone |
 | [Authgear](https://accounts.portal.authgearapps.com/login) |
 | [Best Buyn](https://www.bestbuy.com/identity/signin) |
 | [Beyond Identity](https://console-us.beyondidentity.com/signup) |
+| [Binance](https://www.binance.com) | Top Right Badge > Security > Passkeys: Manage > Add Authenticator > Continue |
 | [BoursoBank](https://clients.boursobank.com/)|
 | [Braunhousehold](https://braunhousehold.com) |
 | [Card Pointers](https://cardpointers.com/login/) |
@@ -47,9 +48,9 @@ This is a living list. If you are aware of other solutions, websites or platform
 | [DocuSign](https://account.docusign.com/) |
 | [eBay](https://signin.ebay.com/ws/eBayISAPI.dll) |
 | [FormX.ai](https://auth.formextractorai.com/login) |
-| [GitHub](https://docs.github.com/en/authentication/authenticating-with-a-passkey/signing-in-with-a-passkey) | Top Right Badge -> Settings -> Passwords and Authentication -> Add a passkey
+| [GitHub](https://docs.github.com/en/authentication/authenticating-with-a-passkey/signing-in-with-a-passkey) | Top Right Badge > Settings > Passwords and Authentication > Add a passkey
 | [GoDaddy](https://sso.godaddy.com/) |
-| [Google](https://www.google.com/)
+| [Google](https://myaccount.google.com/) | Top Right Badge > Manage Your Google Account > Security > How you sign in to Google > Passkeys > Create a passkey |
 | [Hanko](https://cloud.hanko.io/login) |
 | [Home Depot](https://www.homedepot.com/) |
 | [Horizon Pics](https://horizon.pics) |
@@ -58,16 +59,16 @@ This is a living list. If you are aware of other solutions, websites or platform
 | [Kenwoodworld](https://kenwoodworld.com) |
 | [Laakari.chat](https://laakari.chat) |
 | [Mangadex](http://mangadex.org/) |
-| [Microsoft](https://microsoft.com/) | Top Right Badge -> My Microsoft account -> Security -> Advanced Security Options -> Add a new way to sign in or verify -> Use your Windows PC -> Next
+| [Microsoft](https://microsoft.com/) | Top Right Badge > My Microsoft account > Security > Advanced Security Options > Add a new way to sign in or verify > Use your Windows PC > Next | Says "Windows" but works the same on Linux |
 | [Money Forward ID](https://id.moneyforward.com/sign_in/new) |
 | [Nintendo](https://www.nintendo.com/) |
 | [Nvidia](https://nvidia.com/) |
 | [Okta](https://okta.com/) |
 | [Omg.lol](https://omg.lol) |
 | [Pastry](http://pastry.net/) |
-| [PayPal](https://www.paypal.com/signin/) |
+| [PayPal](https://www.paypal.com/) | | Not available for everyone |
 | [Privacy Guides Forum](https://discuss.privacyguides.net/) |
-| [Proton Mail](https://mail.proton.me/) | Gear -> All Settings -> Account and password -> Add Security Key
+| [Proton Mail](https://mail.proton.me/) | Gear > All Settings > Account and password > Add Security Key
 | [Qapital](http://qapital.com/) |
 | [Robinhood](https://robinhood.com/login) |
 | [Shop Pay](https://shop.app) |
