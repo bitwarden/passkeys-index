@@ -27,63 +27,63 @@ This is a living list. If you are aware of other solutions, websites or platform
 
 ### **Websites supporting passkey login**
 
-| Site name | URL | Instructions |
-| --- | --- | --- | 
-| Arpari | [https://app.arpari.com/login](https://app.arpari.com/login) |
-| Amazon | [https://www.amazon.com/](https://www.amazon.com/) |
-| Authgear | [https://accounts.portal.authgearapps.com/login](https://accounts.portal.authgearapps.com/login) |
-| Best Buy | [https://www.bestbuy.com/identity/signin](https://www.bestbuy.com/identity/signin) |
-| Beyond Identity | [https://console-us.beyondidentity.com/signup](https://console-us.beyondidentity.com/signup) |
-| BoursoBank | [https://clients.boursobank.com/](https://clients.boursobank.com/)|
-| Braunhousehold | [Braunhousehold.com](https://Braunhousehold.com) |
-| Card Pointers | [https://cardpointers.com/login/](https://cardpointers.com/login/) |
-| Carnival | [Carnival.com](https://Carnival.com) |
-| Coinbase | [https://www.coinbase.com/](https://www.coinbase.com/) |
-| Corbado | [https://app.corbado.com/signin](https://app.corbado.com/signin) |
-| CVS | [https://www.cvs.com/](https://www.cvs.com/)
-| Daylite | [https://www.marketcircle.com/account/login](https://www.marketcircle.com/account/login) |
-| Dinero | [dinero.dk](https://dinero.dk) |
-| Docomo | [https://www.docomo.ne.jp/english/](https://www.docomo.ne.jp/english/) |
-| DocuSign | [https://account.docusign.com/](https://account.docusign.com/) |
-| eBay | [https://signin.ebay.com/ws/eBayISAPI.dll](https://signin.ebay.com/ws/eBayISAPI.dll) |
-| FormX.ai | [https://auth.formextractorai.com/login](https://auth.formextractorai.com/login) |
-| GitHub | [github.com](https://docs.github.com/en/authentication/authenticating-with-a-passkey/signing-in-with-a-passkey) | Top Right Badge -> Settings -> Passwords and Authentication -> Add a passkey
-| GoDaddy | [https://sso.godaddy.com/](https://sso.godaddy.com/) |
-| Google | [https://www.google.com/](https://www.google.com/)
-| Hanko | [https://cloud.hanko.io/login](https://cloud.hanko.io/login) |
-| Home Depot | [https://www.homedepot.com/](https://www.homedepot.com/) |
-| Horizon Pics | [horizon.pics](https://horizon.pics) |
-| Instacart | [https://www.instacart.com/](https://www.instacart.com/) |
-| Kayak | [https://www.kayak.com/](https://www.kayak.com/) |
-| Kenwoodworld.com | [Kenwoodworld.com](https://Kenwoodworld.com) |
-| Laakari.chat | [laakari.chat](https://laakari.chat) |
-| Mangadex | [mangadex.org](http://mangadex.org/) |
-| Microsoft | [microsoft.com](http://microsoft.com/) | Top Right Badge -> My Microsoft account -> Security -> Advanced Security Options -> Add a new way to sign in or verify -> Use your Windows PC -> Next
-| Money Forward ID | [https://id.moneyforward.com/sign\_in/new](https://id.moneyforward.com/sign_in/new) |
-| Nintendo | [https://www.nintendo.com/](https://www.nintendo.com/) |
-| Nvidia | [nvidia.com](http://nvidia.com/) |
-| Okta | [okta.com](http://okta.com/) |
-| Omg.lol | [omg.lol](https://omg.lol) |
-| Pastry | [pastry.net](http://pastry.net/) |
-| PayPal | [https://www.paypal.com/signin/](https://www.paypal.com/signin/) |
-| Privacy Guides forum | [Privacy Guides forum](https://discuss.privacyguides.net/) |
-| Proton Mail | [https://mail.proton.me](https://mail.proton.me/) | Gear -> All Settings -> Account and password -> Add Security Key
-| Qapital | [qapital.com](http://qapital.com/) |
-| Robinhood | [https://robinhood.com/login](https://robinhood.com/login) |
-| Shop Pay | [shop.app](https://shop.app) |
-| Shopify | [https://accounts.shopify.com/lookup](https://accounts.shopify.com/lookup) |
-| Synology DSM | [https://www.synology.com/en-global/dsm](https://www.synology.com/en-global/dsm) |
-| Techlore Discussions | [Techlore Discussions](https://discuss.techlore.tech/) |
-| TikTok | [tiktok.com](https://newsroom.tiktok.com/en-us/passkeys-fido-alliance) |
-| The Hendrix | [thehendrixjc.com](http://thehendrixjc.com/) |
-| Trusona Authentication Cloud | [trusona.com](http://trusona.com/) |
-| Uber | [https://www.uber.com/](https://www.uber.com/) |
-| Vault Vision | [vaultvision.com](http://vaultvision.com/) |
-| Virgin Media | [virginmedia.com](http://virginmedia.com/) |
-| WebAuthn.io | [webauthn.io](http://webauthn.io/) |
-| World of Hyatt | [hyatt.com](http://hyatt.com/) |
-| Yahoo! | [https://www.yahoo.com/](https://www.yahoo.com/) |
-| Zoho | [zoho.com](http://zoho.com/) |
+| Site | Instructions |
+| --- | --- |
+| [Arpari](https://app.arpari.com/login) |
+| [Amazon](https://www.amazon.com/) |
+| [Authgear](https://accounts.portal.authgearapps.com/login) |
+| [Best Buyn](https://www.bestbuy.com/identity/signin) |
+| [Beyond Identity](https://console-us.beyondidentity.com/signup) |
+| [BoursoBank](https://clients.boursobank.com/)|
+| [Braunhousehold](https://braunhousehold.com) |
+| [Card Pointers](https://cardpointers.com/login/) |
+| [Carnival](https://carnival.com) |
+| [Coinbase](https://www.coinbase.com/) |
+| [Corbado](https://app.corbado.com/signin) |
+| [CVS](https://www.cvs.com/)
+| [Daylite](https://www.marketcircle.com/account/login) |
+| [Dinero](https://dinero.dk) |
+| [Docomo](https://www.docomo.ne.jp/english/) |
+| [DocuSign](https://account.docusign.com/) |
+| [eBay](https://signin.ebay.com/ws/eBayISAPI.dll) |
+| [FormX.ai](https://auth.formextractorai.com/login) |
+| [GitHub](https://docs.github.com/en/authentication/authenticating-with-a-passkey/signing-in-with-a-passkey) | Top Right Badge -> Settings -> Passwords and Authentication -> Add a passkey
+| [GoDaddy](https://sso.godaddy.com/) |
+| [Google](https://www.google.com/)
+| [Hanko](https://cloud.hanko.io/login) |
+| [Home Depot](https://www.homedepot.com/) |
+| [Horizon Pics](https://horizon.pics) |
+| [Instacart](https://www.instacart.com/) |
+| [Kayak](https://www.kayak.com/) |
+| [Kenwoodworld](https://kenwoodworld.com) |
+| [Laakari.chat](https://laakari.chat) |
+| [Mangadex](http://mangadex.org/) |
+| [Microsoft](https://microsoft.com/) | Top Right Badge -> My Microsoft account -> Security -> Advanced Security Options -> Add a new way to sign in or verify -> Use your Windows PC -> Next
+| [Money Forward ID](https://id.moneyforward.com/sign_in/new) |
+| [Nintendo](https://www.nintendo.com/) |
+| [Nvidia](https://nvidia.com/) |
+| [Okta](https://okta.com/) |
+| [Omg.lol](https://omg.lol) |
+| [Pastry](http://pastry.net/) |
+| [PayPal](https://www.paypal.com/signin/) |
+| [Privacy Guides Forum](https://discuss.privacyguides.net/) |
+| [Proton Mail](https://mail.proton.me/) | Gear -> All Settings -> Account and password -> Add Security Key
+| [Qapital](http://qapital.com/) |
+| [Robinhood](https://robinhood.com/login) |
+| [Shop Pay](https://shop.app) |
+| [Shopify](https://accounts.shopify.com/lookup) |
+| [Synology DSM](https://www.synology.com/en-global/dsm) |
+| [Techlore Discussions](https://discuss.techlore.tech/) |
+| [TikTok](https://newsroom.tiktok.com/en-us/passkeys-fido-alliance) |
+| [The Hendrix](https://thehendrixjc.com/) |
+| [Trusona Authentication Cloud](https://www.trusona.com/) |
+| [Uber](https://www.uber.com/) |
+| [Vault Vision](http://vaultvision.com/) |
+| [Virgin Media](http://virginmedia.com/) |
+| [WebAuthn.io](http://webauthn.io/) |
+| [World of Hyatt](http://hyatt.com/) |
+| [Yahoo!](https://www.yahoo.com/) |
+| [Zoho](http://zoho.com/) |
 
 ### **Developer tools**
 
