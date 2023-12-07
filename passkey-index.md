@@ -58,18 +58,18 @@ This is a living list. If you are aware of other solutions, websites or platform
 | [Kayak](https://www.kayak.com/) |
 | [Kenwoodworld](https://kenwoodworld.com) |
 | [Laakari.chat](https://laakari.chat) |
-| [Mangadex](http://mangadex.org/) |
+| [Mangadex](https://mangadex.org/) |
 | [Microsoft](https://microsoft.com/) | Top Right Badge > My Microsoft account > Security > Advanced Security Options > Add a new way to sign in or verify > Use your Windows PC > Next | Says "Windows" but works the same on Linux |
 | [Money Forward ID](https://id.moneyforward.com/sign_in/new) |
 | [Nintendo](https://www.nintendo.com/) |
 | [Nvidia](https://nvidia.com/) |
 | [Okta](https://okta.com/) |
 | [Omg.lol](https://omg.lol) |
-| [Pastry](http://pastry.net/) |
+| [Pastry](https://pastry.net/) |
 | [PayPal](https://www.paypal.com/) | | Not available for everyone |
 | [Privacy Guides Forum](https://discuss.privacyguides.net/) |
 | [Proton Mail](https://mail.proton.me/) | Gear > All Settings > Account and password > Add Security Key
-| [Qapital](http://qapital.com/) |
+| [Qapital](https://www.qapital.com/) |
 | [Robinhood](https://robinhood.com/login) |
 | [Shop Pay](https://shop.app) |
 | [Shopify](https://accounts.shopify.com/lookup) |
@@ -79,12 +79,12 @@ This is a living list. If you are aware of other solutions, websites or platform
 | [The Hendrix](https://thehendrixjc.com/) |
 | [Trusona Authentication Cloud](https://www.trusona.com/) |
 | [Uber](https://www.uber.com/) |
-| [Vault Vision](http://vaultvision.com/) |
-| [Virgin Media](http://virginmedia.com/) |
-| [WebAuthn.io](http://webauthn.io/) |
-| [World of Hyatt](http://hyatt.com/) |
+| [Vault Vision](https://vaultvision.com/) |
+| [Virgin Media](https://www.virginmedia.com/) |
+| [WebAuthn.io](https://webauthn.io/) |
+| [World of Hyatt](https://www.hyatt.com/) |
 | [Yahoo!](https://www.yahoo.com/) |
-| [Zoho](http://zoho.com/) |
+| [Zoho](https://www.zoho.com/) |
 
 ### **Developer tools**
 
