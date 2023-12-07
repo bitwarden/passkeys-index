@@ -28,7 +28,7 @@ This is a living list. If you are aware of other solutions, websites or platform
 ### **Websites supporting passkey login**
 
 | Site name | URL | Instructions |
-| --- | --- |
+| --- | --- | --- | 
 | Arpari | [https://app.arpari.com/login](https://app.arpari.com/login) |
 | Amazon | [https://www.amazon.com/](https://www.amazon.com/) |
 | Authgear | [https://accounts.portal.authgearapps.com/login](https://accounts.portal.authgearapps.com/login) |
