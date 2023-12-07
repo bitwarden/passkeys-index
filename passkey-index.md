@@ -27,7 +27,7 @@ This is a living list. If you are aware of other solutions, websites or platform
 
 ### **Websites supporting passkey login**
 
-| Site name | URL |
+| Site name | URL | Instructions |
 | --- | --- |
 | Arpari | [https://app.arpari.com/login](https://app.arpari.com/login) |
 | Amazon | [https://www.amazon.com/](https://www.amazon.com/) |
@@ -67,6 +67,7 @@ This is a living list. If you are aware of other solutions, websites or platform
 | Pastry | [pastry.net](http://pastry.net/) |
 | PayPal | [https://www.paypal.com/signin/](https://www.paypal.com/signin/) |
 | Privacy Guides forum | [Privacy Guides forum](https://discuss.privacyguides.net/) |
+| Proton Mail | [https://mail.proton.me](https://mail.proton.me/) | Gear -> All Settings -> Account and password -> Add Security Key
 | Qapital | [qapital.com](http://qapital.com/) |
 | Robinhood | [https://robinhood.com/login](https://robinhood.com/login) |
 | Shop Pay | [shop.app](https://shop.app) |
