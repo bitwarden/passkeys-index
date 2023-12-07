@@ -47,7 +47,7 @@ This is a living list. If you are aware of other solutions, websites or platform
 | DocuSign | [https://account.docusign.com/](https://account.docusign.com/) |
 | eBay | [https://signin.ebay.com/ws/eBayISAPI.dll](https://signin.ebay.com/ws/eBayISAPI.dll) |
 | FormX.ai | [https://auth.formextractorai.com/login](https://auth.formextractorai.com/login) |
-| GitHub | [GitHub.com](https://docs.github.com/en/authentication/authenticating-with-a-passkey/signing-in-with-a-passkey) |
+| GitHub | [github.com](https://docs.github.com/en/authentication/authenticating-with-a-passkey/signing-in-with-a-passkey) | Top Right Badge -> Settings -> Passwords and Authentication -> Add a passkey
 | GoDaddy | [https://sso.godaddy.com/](https://sso.godaddy.com/) |
 | Google | [https://www.google.com/](https://www.google.com/)
 | Hanko | [https://cloud.hanko.io/login](https://cloud.hanko.io/login) |
