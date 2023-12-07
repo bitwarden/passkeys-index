@@ -58,7 +58,7 @@ This is a living list. If you are aware of other solutions, websites or platform
 | Kenwoodworld.com | [Kenwoodworld.com](https://Kenwoodworld.com) |
 | Laakari.chat | [laakari.chat](https://laakari.chat) |
 | Mangadex | [mangadex.org](http://mangadex.org/) |
-| Microsoft | [microsoft.com](http://microsoft.com/) |
+| Microsoft | [microsoft.com](http://microsoft.com/) | Top Right Badge -> My Microsoft account -> Security -> Advanced Security Options -> Add a new way to sign in or verify -> Use your Windows PC -> Next
 | Money Forward ID | [https://id.moneyforward.com/sign\_in/new](https://id.moneyforward.com/sign_in/new) |
 | Nintendo | [https://www.nintendo.com/](https://www.nintendo.com/) |
 | Nvidia | [nvidia.com](http://nvidia.com/) |
