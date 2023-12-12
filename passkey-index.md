@@ -72,6 +72,7 @@ This is a living list. If you are aware of other solutions, websites or platform
 | Shop Pay | [shop.app](https://shop.app) |
 | Shopify | [https://accounts.shopify.com/lookup](https://accounts.shopify.com/lookup) |
 | Synology DSM | [https://www.synology.com/en-global/dsm](https://www.synology.com/en-global/dsm) |
+| Tailscale | [https://tailscale.com/](https://tailscale.com/) |
 | Techlore Discussions | [Techlore Discussions](https://discuss.techlore.tech/) |
 | TikTok | [tiktok.com](https://newsroom.tiktok.com/en-us/passkeys-fido-alliance) |
 | The Hendrix | [thehendrixjc.com](http://thehendrixjc.com/) |
