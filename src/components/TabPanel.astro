@@ -1,0 +1,10 @@
+---
+const { isActive } = Astro.props as { isActive: boolean };
+---
+
+<div
+  class:list={["tab-panel", !isActive && "hidden"]}
+  data-tab-id={Astro.props.tabId}
+>
+  <slot />
+</div>

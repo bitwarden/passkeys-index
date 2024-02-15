@@ -1,0 +1,75 @@
+---
+import { SEO } from "astro-seo";
+
+import "@fontsource/dm-sans/latin-400-italic.css";
+import "@fontsource/dm-sans/latin-400.css";
+import "@fontsource/dm-sans/latin-500.css";
+import "@fontsource/dm-sans/latin-700.css";
+---
+
+<html lang="en">
+  <head>
+    <SEO
+      title="Passkeys Index"
+      description="The passkeys index is a resource to find platforms, apps, and websites that allow login with passkeys"
+    />
+    <meta charset="utf-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="generator" content={Astro.generator} />
+  </head>
+  <body class="bg-lightGray">
+    <slot />
+    <style is:global>
+      body {
+        @apply font-body text-indigoBlue;
+      }
+      a {
+        @apply underline text-primary;
+      }
+      h1 {
+        @apply text-6xl text-primary;
+      }
+      p {
+        @apply text-lg;
+      }
+
+      table {
+        @apply w-full;
+      }
+      th {
+        @apply text-left;
+      }
+      tr {
+        @apply border-b border-lightGray;
+      }
+      td,
+      th {
+        @apply py-[13.5px];
+      }
+      td:first-child {
+        @apply w-8 px-5 box-content;
+      }
+
+      .tag {
+        @apply inline-block rounded-[5px] py-[2px] px-2;
+      }
+      .tag:not(:last-child) {
+        @apply mr-2 md:mr-[28px];
+      }
+
+      .login.tag {
+        background: rgba(255, 78, 99, 0.1);
+      }
+      .login.tag:after {
+        content: "Login";
+      }
+      .mfa.tag {
+        background: rgba(151, 111, 217, 0.1);
+      }
+      .mfa.tag:after {
+        content: "MFA";
+      }
+    </style>
+  </body>
+</html>

@@ -1,0 +1,85 @@
+---
+import SearchIcon from "../icons/search.astro";
+---
+
+<script>
+  const searchInput = document.getElementById(
+    "search"
+  ) as HTMLInputElement | null;
+  searchInput?.addEventListener("input", function () {
+    const value = this.value.toLowerCase();
+
+    const otherGridCells = document.querySelectorAll(
+      ".tab-content .hidden .cell"
+    );
+    otherGridCells.forEach((cell) => {
+      cell.classList.remove("hidden");
+    });
+
+    // Hide grid rows where grid cells that don't match the search value
+    const grid = document.querySelector(".tab-content :not(.hidden) .grid");
+    if (!grid) return;
+    const columns = Number(grid.getAttribute("data-columns"));
+    const cells = grid.querySelectorAll(".cell") || [];
+    if (isNaN(columns) || !cells) return;
+    const rows: Element[][] = [];
+    cells.forEach((cell, index) => {
+      if (!cell) return;
+      if (index % columns === 0) {
+        rows.push([]);
+      }
+      rows[rows.length - 1].push(cell);
+    });
+
+    rows.forEach((row) => {
+      let found = false;
+      row.forEach((cell) => {
+        if (
+          // Check text content
+          cell.textContent?.toLowerCase().includes(value) ||
+          // Check alt tag in image children
+          Array.from(cell.querySelectorAll("img")).some((img) =>
+            img.getAttribute("alt")?.toLowerCase().includes(value)
+          )
+        ) {
+          found = true;
+        }
+      });
+      if (found) {
+        row.forEach((cell) => cell.classList.remove("hidden"));
+      } else {
+        row.forEach((cell) => cell.classList.add("hidden"));
+      }
+    });
+
+    // const rows = document.querySelectorAll(".tab-content div:not(.hidden)");
+    // rows.forEach((row) => {
+    //   const cells = row.querySelectorAll("td");
+    //   let found = false;
+    //   cells.forEach((cell) => {
+    //     if (cell.textContent?.toLowerCase().includes(value)) {
+    //       found = true;
+    //     }
+    //   });
+    //   if (found) {
+    //     row.classList.remove("hidden");
+    //   } else {
+    //     row.classList.add("hidden");
+    //   }
+    // });
+  });
+</script>
+<div class="relative">
+  <div
+    role="presentation"
+    class="absolute w-6 h-6 top-0 bottom-0 left-[10px] m-auto"
+  >
+    <SearchIcon class="w-full h-full" />
+  </div>
+  <input
+    id="search"
+    type="search"
+    placeholder="Search"
+    class="w-full text-lg placeholder:text-indigoBlue pl-12 pr-4 py-2 border border-lightGray rounded-full focus:outline-none focus:ring-2 focus:ring-primary focus:border-transparent"
+  />
+</div>

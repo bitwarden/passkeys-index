@@ -1,0 +1,165 @@
+---
+import { marked, Renderer, type Token } from "marked";
+import cx from "classnames";
+
+import Layout from "../layout/Layout.astro";
+import Banner from "../components/Banner.astro";
+import Tabs from "../components/Tabs.astro";
+import TabPanel from "../components/TabPanel.astro";
+import SearchField from "../components/SearchField.astro";
+import * as passkeyIndexMd from "../../passkey-index.md";
+
+export const prerender = true;
+
+const markdown = passkeyIndexMd.rawContent();
+
+// Shared renderers
+const iconImageRenderer: Renderer["image"] = (href, title, text) => {
+  return `<img class="min-w-8 h-8" src="${href.replace("/public", "")}" alt="${text}" title="${title}" />`;
+};
+const responsiveUrlRenderer: Renderer["link"] = (href, title, text) => {
+  return `<a href="${href}" title="${title}" target="_blank" rel="noopener noreferrer"><span class="hidden lg:block">${text}</span><span class="lg:hidden">Website</span></a>`;
+};
+const tableRowRenderer: Renderer["tablerow"] = (content) => {
+  return `${content}`;
+};
+const getAlignStyle = (align: string | null) => {
+  return align
+    ? {
+        left: "justify-start",
+        center: "justify-center",
+        right: "justify-end",
+      }[align]
+    : null;
+};
+
+const renderContent = (
+  content: string,
+  flags: { header: boolean; align: string | null }
+) => {
+  if (flags.header) {
+    // Hide logo and features headers
+    if (content === "Logo" || content === "Features") {
+      return "";
+    }
+  }
+  return content;
+};
+
+const defaultRenderer = new marked.Renderer();
+defaultRenderer.image = iconImageRenderer;
+defaultRenderer.tablerow = tableRowRenderer;
+defaultRenderer.table = (header, body) => {
+  return `<div class="grid w-full grid-cols-[auto,auto,minmax(auto,1fr)] md:grid-cols-[auto_minmax(222px,auto)_1fr]" data-columns="3">${header}${body}</div>`;
+};
+defaultRenderer.tablecell = (content, flags) => {
+  return `<div class="${cx(
+    flags.header ? "header font-bold hidden md:block" : "cell",
+    "py-[13.5px] px-3 border-b md:border-lightGray flex items-center",
+    // Border styles
+    "border-b [&:nth-last-child(-n+3)]:border-b-0 border-lightGray",
+    getAlignStyle(flags.align)
+  )}"><span>${renderContent(content, flags)}</span></div>`;
+};
+
+const websitesRenderer = new marked.Renderer();
+websitesRenderer.image = iconImageRenderer;
+websitesRenderer.link = responsiveUrlRenderer;
+websitesRenderer.tablerow = tableRowRenderer;
+websitesRenderer.table = (header, body) => {
+  return `<div class="grid w-full grid-cols-[auto_minmax(100px,1fr)_auto] md:grid-cols-[auto_1fr_auto_auto] lg:grid-cols-[auto_minmax(222px,auto)_1fr_auto]" data-columns="4">${header}${body}</div>`;
+};
+websitesRenderer.tablecell = (content, flags) => {
+  return `<div class="${cx(
+    flags.header ? "header font-bold hidden md:block" : "cell",
+    "py-[13.5px] px-1 md:px-3 flex items-center",
+    // Name styles
+    "[&:nth-child(4n-2)]:text-lg md:[&:nth-child(4n-2)]:text-base",
+    // Tag styles
+    "[&:nth-child(4n)]:col-span-full md:[&:nth-child(4n)]:col-auto [svg path]:fill-indigoBlue",
+    // Border styles
+    "[&:nth-child(4n)]:border-b [&:nth-last-child(-n+1)]:border-b-0 md:border-b md:[&:nth-last-child(-n+4)]:border-b-0 border-lightGray",
+    getAlignStyle(flags.align)
+  )}">${renderContent(content, flags)}</div>`;
+};
+
+const content = marked.lexer(markdown);
+
+const { platforms, websites, developerTools, securityKeys } = content.reduce(
+  (acc, item, index, array) => {
+    if (item.type !== "heading") return acc;
+    if (item.text?.includes("{#platforms}")) {
+      acc.platforms = array[index + 1];
+    } else if (item.text?.includes("{#websites}")) {
+      acc.websites = array[index + 1];
+    } else if (item.text?.includes("{#developer-tools}")) {
+      acc.developerTools = array[index + 1];
+    } else if (item.text?.includes("{#security-keys}")) {
+      acc.securityKeys = array[index + 1];
+    }
+    return acc;
+  },
+  {} as {
+    platforms: Token;
+    websites: Token;
+    developerTools: Token;
+    securityKeys: Token;
+  }
+);
+---
+
+<Layout>
+  <Banner>
+    <p>Powered by the Bitwarden community</p>
+    <p>
+      Contribute to this list via <a
+        href="https://github.com/bitwarden/passkeys-index">GitHub</a
+      >
+    </p>
+  </Banner>
+  <section class="px-8 xl:px-[101px] my-10 md:my-14 max-w-screen-2xl mx-auto">
+    <div class="mb-8 md:px-[35px] md:mb-[51px]">
+      <h1 class="mb-4">Passkeys Index</h1>
+      <p>
+        The passkeys index is a resource to find platforms, apps, and websites
+        that allow login with passkeys
+      </p>
+    </div>
+    <Tabs
+      tabs={[
+        { title: "Websites", id: "websites", isActive: true },
+        { title: "Platforms", id: "platforms" },
+        { title: "Developer Tools", id: "developer-tools" },
+        { title: "Security Keys", id: "security-keys" },
+      ]}
+    >
+      <Fragment slot="search">
+        <SearchField />
+      </Fragment>
+      <TabPanel tabId="websites" isActive>
+        <Fragment
+          set:html={marked.parser([websites], { renderer: websitesRenderer })}
+        />
+      </TabPanel>
+      <TabPanel tabId="platforms">
+        <Fragment
+          set:html={marked.parser([platforms], { renderer: defaultRenderer })}
+        />
+      </TabPanel>
+      <TabPanel tabId="developer-tools">
+        <Fragment
+          set:html={marked.parser([developerTools], {
+            renderer: defaultRenderer,
+          })}
+        />
+      </TabPanel>
+      <TabPanel tabId="security-keys">
+        <Fragment
+          set:html={marked.parser([securityKeys], {
+            renderer: defaultRenderer,
+          })}
+        />
+      </TabPanel>
+    </Tabs>
+  </section>
+</Layout>
