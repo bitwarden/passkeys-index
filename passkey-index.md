@@ -79,6 +79,7 @@ This is a living list. If you are aware of other solutions, websites or platform
 | Trusona Authentication Cloud | [trusona.com](http://trusona.com/) |
 | Uber | [https://www.uber.com/](https://www.uber.com/) |
 | Vault Vision | [vaultvision.com](http://vaultvision.com/) |
+| Vercel | [vercel.com](https://vercel.com/) |
 | Virgin Media | [virginmedia.com](http://virginmedia.com/) |
 | WebAuthn.io | [webauthn.io](http://webauthn.io/) |
 | World of Hyatt | [hyatt.com](http://hyatt.com/) |
