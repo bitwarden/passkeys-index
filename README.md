@@ -77,6 +77,7 @@ This is a living list. If you are aware of other solutions, websites or platform
 | ![logo](/public/logos/trusona.svg) | Trusona Authentication Cloud | [trusona.com](http://trusona.com/) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/uber.svg) | Uber | [www.uber.com](https://www.uber.com/) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/vault-vision.svg) | Vault Vision | [vaultvision.com](https://vaultvision.com/) | ![Login](/public/tags/login.svg "Login") ![MFA](/public/tags/mfa.svg "MFA") |
+| ![logo](/public/logos/vercel.svg) | Vercel | [vercel.com](https://vercel.com/) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/virgin-media.svg) | Virgin Media | [virginmedia.com](https://virginmedia.com/) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/webauthn.svg) | WebAuthn.io | [webauthn.io](https://webauthn.io/) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/hyatt.svg) | World of Hyatt | [hyatt.com](https://hyatt.com/) | ![Login](/public/tags/login.svg "Login") |
