@@ -64,7 +64,7 @@ This is a living list. If you are aware of other solutions, websites or platform
 | ![logo](/public/logos/omglol.svg) | Omg.lol | [omg.lol](https://omg.lol) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/pastery.svg) | Pastery | [pastry.net](https://pastery.net/) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/paypal.svg) | PayPal | [www.paypal.com/signin](https://www.paypal.com/signin/) | ![Login](/public/tags/login.svg "Login") |
-| ![logo](/public/logos/playstation.svg) | Sony Playstation | [www.playstation.com/en-us/passkey](https://www.playstation.com/en-us/passkey/) | ![Login](/public/tags/login.svg "Login") |
+| ![logo](/public/logos/playstation.svg) | Sony Playstation | [www.playstation.com](https://www.playstation.com/en-us/passkey/) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/privacy-guides.svg) | Privacy Guides Forum | [Privacy Guides Forum](https://discuss.privacyguides.net/) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/qapital.svg) | Qapital | [qapital.com](https://qapital.com/) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/robinhood.svg) | Robinhood | [robinhood.com/login](https://robinhood.com/login) | ![Login](/public/tags/login.svg "Login") |
