@@ -5,6 +5,6 @@ import tailwind from "@astrojs/tailwind";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://passkeys-index.netlify.app",
+  site: "https://passkeyindex.io",
   integrations: [mdx(), tailwind()],
 });
