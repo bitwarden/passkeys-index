@@ -73,6 +73,7 @@ This is a living list. If you are aware of other solutions, websites or platform
 | ![logo](/public/logos/synology.svg) | Synology DSM | [www.synology.com/en-global/dsm](https://www.synology.com/en-global/dsm) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/tailscale.svg) | Tailscale | [tailscale.com](https://tailscale.com/) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/techlore.svg) | Techlore Discussions | [discuss.techlore.tech](https://discuss.techlore.tech/) | ![Login](/public/tags/login.svg "Login") |
+| ![logo](/public/logos/tender.svg) | Tender | [tender.run](https://tender.run/) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/tiktok.svg) | TikTok | [tiktok.com](https://newsroom.tiktok.com/en-us/passkeys-fido-alliance) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/the-hendrix.svg) | The Hendrix | [thehendrixjc.com](https://thehendrixjc.com/) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/trusona.svg) | Trusona Authentication Cloud | [trusona.com](http://trusona.com/) | ![Login](/public/tags/login.svg "Login") |
