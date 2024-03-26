@@ -54,6 +54,7 @@ This is a living list. If you are aware of other solutions, websites or platform
 | ![logo](/public/logos/instacart.svg) | Instacart | [www.instacart.com](https://www.instacart.com/) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/kayak.svg) | Kayak | [www.kayak.com](https://www.kayak.com/) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/kenwood.svg) | Kenwoodworld.com | [kenwoodworld.com](https://kenwoodworld.com) | ![Login](/public/tags/login.svg "Login") |
+| ![logo](/public/logos/kraken.svg) | Kraken | [kraken.com](https://support.kraken.com/hc/en-us/articles/what-is-a-passkey) | ![Login](/public/tags/login.svg "Login") ![MFA](/public/tags/mfa.svg "MFA") |
 | ![logo](/public/logos/laakari-chat.svg) | Laakari.chat | [laakari.chat](https://laakari.chat) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/mangadex.svg) | Mangadex | [mangadex.org](https://mangadex.org/) | ![Login](/public/tags/login.svg "Login") ![MFA](/public/tags/mfa.svg "MFA") |
 | ![logo](/public/logos/microsoft.svg) | Microsoft | [microsoft.com](https://microsoft.com/) | ![Login](/public/tags/login.svg "Login") ![MFA](/public/tags/mfa.svg "MFA") |
