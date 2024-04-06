@@ -32,6 +32,7 @@ This is a living list. If you are aware of other solutions, websites or platform
 | ![logo](/public/logos/authgear.svg)| Authgear | [accounts.portal.authgearapps.com/login](https://accounts.portal.authgearapps.com/login) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/best-buy.svg) | Best Buy | [www.bestbuy.com/identity/signin](https://www.bestbuy.com/identity/signin) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/beyond-identity.svg) | Beyond Identity | [console-us.beyondidentity.com/signup](https://console-us.beyondidentity.com/signup) | ![Login](/public/tags/login.svg "Login") |
+| ![logo](/public/logos/bitwarden.svg) | Bitwarden | [bitwarden.com](https://bitwarden.com) | ![Login](/public/tags/login.svg "Login") ![MFA](/public/tags/mfa.svg "MFA") |
 | ![logo](/public/logos/boursobank.svg) | BoursoBank | [clients.boursobank.com](https://clients.boursobank.com/) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/braun.svg) | Braunhousehold | [braunhousehold.com](https://braunhousehold.com) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/card-pointers.svg) | Card Pointers | [cardpointers.com/login](https://cardpointers.com/login/) | ![Login](/public/tags/login.svg "Login") |
