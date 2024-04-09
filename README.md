@@ -27,6 +27,7 @@ This is a living list. If you are aware of other solutions, websites or platform
 
 | Logo | Site/Company name | Site URL | Features |
 | --- | --- | --- | ---: |
+| ![logo](/public/logos/adobe.svg) | Adobe | [account.adobe.com/login](https://account.adobe.com/) | ![Login](/public/tags/login.svg "Login") | 
 | ![logo](/public/logos/arpari.svg) | Arpari | [app.arpari.com/login](https://app.arpari.com/login) | ![Login](/public/tags/login.svg "Login") | 
 | ![logo](/public/logos/amazon.svg) | Amazon | [www.amazon.com](https://www.amazon.com/) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/authgear.svg)| Authgear | [accounts.portal.authgearapps.com/login](https://accounts.portal.authgearapps.com/login) | ![Login](/public/tags/login.svg "Login") |
