@@ -69,6 +69,7 @@ This is a living list. If you are aware of other solutions, websites or platform
 | ![logo](/public/logos/privacy-guides.svg) | Privacy Guides Forum | [Privacy Guides Forum](https://discuss.privacyguides.net/) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/qapital.svg) | Qapital | [qapital.com](https://qapital.com/) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/robinhood.svg) | Robinhood | [robinhood.com/login](https://robinhood.com/login) | ![Login](/public/tags/login.svg "Login") |
+| ![logo](/public/logos/roblox.svg) | Roblox | [roblox.com/login](https://roblox.com/login) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/shop.svg) | Shop Pay | [shop.app](https://shop.app) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/shopify.svg) | Shopify | [accounts.shopify.com/lookup](https://accounts.shopify.com/lookup) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/playstation.svg) | Sony Playstation | [www.playstation.com](https://www.playstation.com/en-us/passkey/) | ![Login](/public/tags/login.svg "Login") |
