@@ -90,7 +90,7 @@ This is a living list. If you are aware of other solutions, websites or platform
 | ![logo](/public/logos/hyatt.svg) | World of Hyatt | [hyatt.com](https://hyatt.com/) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/yahoo.svg) | Yahoo! | [www.yahoo.com](https://www.yahoo.com/) | ![Login](/public/tags/login.svg "Login") ![MFA](/public/tags/mfa.svg "MFA") |
 | ![logo](/public/logos/zoho.svg) | Zoho | [zoho.com](http://zoho.com/) | ![Login](/public/tags/login.svg "Login") ![MFA](/public/tags/mfa.svg "MFA") |
-| ![logo](/public/logos/whatsapp.svg) | WhatsApp | [www.whatsapp.com](https://www.whatsapp.com/) | ![MFA](/public/tags/mfa.svg "MFA") |
+| ![logo](/public/logos/whatsapp.svg) | WhatsApp | [whatsapp.com](https://faq.whatsapp.com/1850567238795036/?cms_platform=android&helpref=platform_switcher) | ![MFA](/public/tags/mfa.svg "MFA") |
 
 ### **Developer tools** {#developer-tools}
 
