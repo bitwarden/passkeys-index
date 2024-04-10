@@ -27,6 +27,7 @@ This is a living list. If you are aware of other solutions, websites or platform
 
 | Logo | Site/Company name | Site URL | Features |
 | --- | --- | --- | ---: |
+| ![logo](/public/logos/adobe.svg) | Adobe | [account.adobe.com/login](https://account.adobe.com/) | ![Login](/public/tags/login.svg "Login") | 
 | ![logo](/public/logos/arpari.svg) | Arpari | [app.arpari.com/login](https://app.arpari.com/login) | ![Login](/public/tags/login.svg "Login") | 
 | ![logo](/public/logos/amazon.svg) | Amazon | [www.amazon.com](https://www.amazon.com/) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/authgear.svg)| Authgear | [accounts.portal.authgearapps.com/login](https://accounts.portal.authgearapps.com/login) | ![Login](/public/tags/login.svg "Login") |
@@ -70,6 +71,7 @@ This is a living list. If you are aware of other solutions, websites or platform
 | ![logo](/public/logos/qapital.svg) | Qapital | [qapital.com](https://qapital.com/) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/robinhood.svg) | Robinhood | [robinhood.com/login](https://robinhood.com/login) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/roblox.svg) | Roblox | [roblox.com/login](https://roblox.com/login) | ![Login](/public/tags/login.svg "Login") |
+| ![logo](/public/logos/stripe.svg) | Stripe | [stripe.com](https://stripe.com) | ![Login](/public/tags/login.svg "Login") | ![MFA](/public/tags/mfa.svg "MFA") |
 | ![logo](/public/logos/shop.svg) | Shop Pay | [shop.app](https://shop.app) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/shopify.svg) | Shopify | [accounts.shopify.com/lookup](https://accounts.shopify.com/lookup) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/playstation.svg) | Sony Playstation | [www.playstation.com](https://www.playstation.com/en-us/passkey/) | ![Login](/public/tags/login.svg "Login") |
@@ -88,6 +90,7 @@ This is a living list. If you are aware of other solutions, websites or platform
 | ![logo](/public/logos/hyatt.svg) | World of Hyatt | [hyatt.com](https://hyatt.com/) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/yahoo.svg) | Yahoo! | [www.yahoo.com](https://www.yahoo.com/) | ![Login](/public/tags/login.svg "Login") ![MFA](/public/tags/mfa.svg "MFA") |
 | ![logo](/public/logos/zoho.svg) | Zoho | [zoho.com](http://zoho.com/) | ![Login](/public/tags/login.svg "Login") ![MFA](/public/tags/mfa.svg "MFA") |
+| ![logo](/public/logos/whatsapp.svg) | WhatsApp | [whatsapp.com](https://faq.whatsapp.com/1850567238795036/?cms_platform=android&helpref=platform_switcher) | ![MFA](/public/tags/mfa.svg "MFA") |
 
 ### **Developer tools** {#developer-tools}
 
