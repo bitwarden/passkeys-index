@@ -28,9 +28,10 @@ This is a living list. If you are aware of other solutions, websites or platform
 | Logo | Site/Company name | Site URL | Features |
 | --- | --- | --- | ---: |
 | ![logo](/public/logos/adobe.svg) | Adobe | [account.adobe.com/login](https://account.adobe.com/) | ![Login](/public/tags/login.svg "Login") | 
-| ![logo](/public/logos/arpari.svg) | Arpari | [app.arpari.com/login](https://app.arpari.com/login) | ![Login](/public/tags/login.svg "Login") | 
 | ![logo](/public/logos/amazon.svg) | Amazon | [www.amazon.com](https://www.amazon.com/) | ![Login](/public/tags/login.svg "Login") |
+| ![logo](/public/logos/arpari.svg) | Arpari | [app.arpari.com/login](https://app.arpari.com/login) | ![Login](/public/tags/login.svg "Login") | 
 | ![logo](/public/logos/authgear.svg)| Authgear | [accounts.portal.authgearapps.com/login](https://accounts.portal.authgearapps.com/login) | ![Login](/public/tags/login.svg "Login") |
+| ![logo](/public/logos/authentik.svg)| authentik | [docs.goauthentik.io](https://docs.goauthentik.io/docs/flow/stages/authenticator_validate/#passwordless-authentication) | ![Login](/public/tags/login.svg "Login") ![MFA](/public/tags/mfa.svg "MFA") |
 | ![logo](/public/logos/best-buy.svg) | Best Buy | [www.bestbuy.com/identity/signin](https://www.bestbuy.com/identity/signin) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/beyond-identity.svg) | Beyond Identity | [console-us.beyondidentity.com/signup](https://console-us.beyondidentity.com/signup) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/bitwarden.svg) | Bitwarden | [bitwarden.com](https://bitwarden.com) | ![Login](/public/tags/login.svg "Login") ![MFA](/public/tags/mfa.svg "MFA") |
