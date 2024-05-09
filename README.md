@@ -43,6 +43,7 @@ This is a living list. If you are aware of other solutions, websites or platform
 | ![logo](/public/logos/cvs.svg) | CVS | [www.cvs.com](https://www.cvs.com/) | ![Login](/public/tags/login.svg "Login") ![MFA](/public/tags/mfa.svg "MFA") |
 | ![logo](/public/logos/daylite.svg) | Daylite | [www.marketcircle.com/account/login](https://www.marketcircle.com/account/login) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/dinero.svg) | Dinero | [dinero.dk](https://dinero.dk) | ![Login](/public/tags/login.svg "Login") |
+| ![logo](/public/logos/discourse.svg) | Discourse | [meta.discourse.org](https://meta.discourse.org/t/support-passwordless-login-with-passkeys) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/docomo.svg) | Docomo | [www.docomo.ne.jp/english](https://www.docomo.ne.jp/english/) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/docusign.svg) | DocuSign | [account.docusign.com](https://account.docusign.com/) | ![Login](/public/tags/login.svg "Login") ![MFA](/public/tags/mfa.svg "MFA") |
 | ![logo](/public/logos/ebay.svg) | eBay | [signin.ebay.com/ws/eBayISAPI.dll](https://signin.ebay.com/ws/eBayISAPI.dll) | ![Login](/public/tags/login.svg "Login") |
@@ -68,7 +69,6 @@ This is a living list. If you are aware of other solutions, websites or platform
 | ![logo](/public/logos/omglol.svg) | Omg.lol | [omg.lol](https://omg.lol) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/pastery.svg) | Pastery | [pastry.net](https://pastery.net/) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/paypal.svg) | PayPal | [www.paypal.com/signin](https://www.paypal.com/signin/) | ![Login](/public/tags/login.svg "Login") |
-| ![logo](/public/logos/privacy-guides.svg) | Privacy Guides Forum | [Privacy Guides Forum](https://discuss.privacyguides.net/) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/qapital.svg) | Qapital | [qapital.com](https://qapital.com/) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/robinhood.svg) | Robinhood | [robinhood.com/login](https://robinhood.com/login) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/roblox.svg) | Roblox | [roblox.com/login](https://roblox.com/login) | ![Login](/public/tags/login.svg "Login") |
@@ -78,7 +78,6 @@ This is a living list. If you are aware of other solutions, websites or platform
 | ![logo](/public/logos/playstation.svg) | Sony Playstation | [www.playstation.com](https://www.playstation.com/en-us/passkey/) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/synology.svg) | Synology DSM | [www.synology.com/en-global/dsm](https://www.synology.com/en-global/dsm) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/tailscale.svg) | Tailscale | [tailscale.com](https://tailscale.com/) | ![Login](/public/tags/login.svg "Login") |
-| ![logo](/public/logos/techlore.svg) | Techlore Discussions | [discuss.techlore.tech](https://discuss.techlore.tech/) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/tender.svg) | Tender | [tender.run](https://tender.run/) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/tiktok.svg) | TikTok | [tiktok.com](https://newsroom.tiktok.com/en-us/passkeys-fido-alliance) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/the-hendrix.svg) | The Hendrix | [thehendrixjc.com](https://thehendrixjc.com/) | ![Login](/public/tags/login.svg "Login") |
