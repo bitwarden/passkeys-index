@@ -61,6 +61,7 @@ This is a living list. If you are aware of other solutions, websites or platform
 | ![logo](/public/logos/mangadex.svg) | Mangadex | [mangadex.org](https://mangadex.org/) | ![Login](/public/tags/login.svg "Login") ![MFA](/public/tags/mfa.svg "MFA") |
 | ![logo](/public/logos/microsoft.svg) | Microsoft | [microsoft.com](https://microsoft.com/) | ![Login](/public/tags/login.svg "Login") ![MFA](/public/tags/mfa.svg "MFA") |
 | ![logo](/public/logos/money-forward.svg) | Money Forward ID | [id.moneyforward.com/sign_in](https://id.moneyforward.com/sign_in) | ![Login](/public/tags/login.svg "Login") |
+| ![logo](/public/logos/namecheap.svg) | Namecheap | [www.namecheap.com](https://www.namecheap.com/support/knowledgebase/article.aspx/10102/45/how-can-i-use-the-u2f-method-for-twofactor-authentication/) | ![MFA](/public/tags/mfa.svg "MFA") |
 | ![logo](/public/logos/nintendo.svg) | Nintendo | [www.nintendo.com](https://www.nintendo.com/) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/nvidia.svg) | Nvidia | [nvidia.com](https://nvidia.com/) | ![Login](/public/tags/login.svg "Login") ![MFA](/public/tags/mfa.svg "MFA") |
 | ![logo](/public/logos/okta.svg) | Okta | [okta.com](https://okta.com/) | ![Login](/public/tags/login.svg "Login") ![MFA](/public/tags/mfa.svg "MFA") |
