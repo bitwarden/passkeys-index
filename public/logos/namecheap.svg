@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 84.048904 46.59486"
+   version="1.1"
+   id="svg54"
+   sodipodi:docname="namecheap.svg"
+   width="84.048904"
+   height="46.59486"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview56"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="5.1589147"
+     inkscape:cx="128.90308"
+     inkscape:cy="23.260706"
+     inkscape:window-width="1920"
+     inkscape:window-height="1012"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg54" />
+  <defs
+     id="defs22">
+    <linearGradient
+       id="a"
+       x1="59.990002"
+       y1="44.16"
+       x2="80.010002"
+       y2="1.23"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#d4202c"
+         id="stop2" />
+      <stop
+         offset="0.1"
+         stop-color="#dc3d29"
+         stop-opacity="0.79"
+         id="stop4" />
+      <stop
+         offset="0.2"
+         stop-color="#e45926"
+         stop-opacity="0.58"
+         id="stop6" />
+      <stop
+         offset="0.32"
+         stop-color="#ea7123"
+         stop-opacity="0.4"
+         id="stop8" />
+      <stop
+         offset="0.43"
+         stop-color="#f08521"
+         stop-opacity="0.25"
+         id="stop10" />
+      <stop
+         offset="0.55"
+         stop-color="#f4941f"
+         stop-opacity="0.14"
+         id="stop12" />
+      <stop
+         offset="0.68"
+         stop-color="#f79f1e"
+         stop-opacity="0.06"
+         id="stop14" />
+      <stop
+         offset="0.82"
+         stop-color="#f8a51d"
+         stop-opacity="0.02"
+         id="stop16" />
+      <stop
+         offset="1"
+         stop-color="#f9a71d"
+         stop-opacity="0"
+         id="stop18" />
+    </linearGradient>
+    <linearGradient
+       id="b"
+       x1="1777.48"
+       y1="1048.76"
+       x2="1797.5"
+       y2="1005.83"
+       gradientTransform="rotate(180,901.26223,525.945)"
+       xlink:href="#a" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#a"
+       id="linearGradient138"
+       gradientUnits="userSpaceOnUse"
+       x1="59.990002"
+       y1="44.16"
+       x2="80.010002"
+       y2="1.23"
+       gradientTransform="translate(-0.97554671,-0.71)" />
+  </defs>
+  <title
+     id="title24">cn-logo</title>
+  <path
+     d="m 76.194453,0 a 7.87,7.87 0 0 0 -6.88,4.05 l -0.16,0.33 -6.13,12.16 -7.8,15.37 5.11,10.07 0.28,0.55 a 8,8 0 0 0 3.41,3.23 8.05,8.05 0 0 0 3.41,-3.23 l 0.28,-0.55 15.31,-30.21 0.37,-0.73 a 7.86,7.86 0 0 0 -7.19,-11 z"
+     fill="#ff5100"
+     id="path26" />
+  <path
+     d="m 28.874453,14.63 -5.1,-10 -0.28,-0.55 a 7.89,7.89 0 0 0 -3.4,-3.22 7.92,7.92 0 0 0 -3.4,3.21 l -0.29,0.56 -15.3299997,30.18 -0.37000001,0.72 a 7.86,7.86 0 0 0 14.05999971,7 l 0.17,-0.32 6.17,-12.16 7.79,-15.36 z"
+     fill="#ff5100"
+     id="path28" />
+  <path
+     d="m 76.174453,0 a 7.86,7.86 0 0 0 -6.87,4.05 l -0.17,0.33 -6.17,12.16 -7.81,15.37 5.12,10.07 0.28,0.55 a 7.94,7.94 0 0 0 3.41,3.23 7.94,7.94 0 0 0 3.41,-3.23 l 0.29,-0.55 15.36,-30.21 0.36,-0.73 a 7.86,7.86 0 0 0 -7.19,-11 z"
+     fill="url(#a)"
+     id="path30"
+     style="fill:url(#linearGradient138)" />
+  <path
+     d="m 7.8844533,46.58 a 7.86,7.86 0 0 0 6.8699997,-4 l 0.17,-0.33 6.18,-12.16 7.8,-15.37 -5.11,-10.12 -0.28,-0.55 a 8,8 0 0 0 -3.42,-3.23 8,8 0 0 0 -3.41,3.23 l -0.28,0.55 -15.3799997,30.21 -0.37000001,0.73 a 7.86,7.86 0 0 0 7.19000001,11 z"
+     fill="url(#b)"
+     id="path32"
+     style="fill:url(#b)" />
+  <path
+     d="m 28.874453,14.63 -5.1,-10 -0.28,-0.55 a 7.94,7.94 0 0 0 -3.41,-3.23 8.31,8.31 0 0 1 1.49,-0.56 8.16,8.16 0 0 1 2,-0.25 h 10.68 a 7.92,7.92 0 0 1 6.86,4 l 0.28,0.55 13.81,27.36 5.09,10 0.28,0.55 a 8,8 0 0 0 3.45,3.26 8.05,8.05 0 0 1 -3.47,0.81 h -10.74 a 7.91,7.91 0 0 1 -6.85,-4 l -0.29,-0.55 z"
+     fill="#ff8c44"
+     id="path34" />
+</svg>
