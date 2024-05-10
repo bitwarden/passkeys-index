@@ -48,8 +48,11 @@ This is a living list. If you are aware of other solutions, websites or platform
 | ![logo](/public/logos/docomo.svg) | Docomo | [www.docomo.ne.jp/english](https://www.docomo.ne.jp/english/) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/docusign.svg) | DocuSign | [account.docusign.com](https://account.docusign.com/) | ![Login](/public/tags/login.svg "Login") ![MFA](/public/tags/mfa.svg "MFA") |
 | ![logo](/public/logos/ebay.svg) | eBay | [signin.ebay.com/ws/eBayISAPI.dll](https://signin.ebay.com/ws/eBayISAPI.dll) | ![Login](/public/tags/login.svg "Login") |
+| ![logo](/public/logos/forgejo.svg) | Forgejo | [forgejo.org](https://forgejo.org/) | ![Login](/public/tags/login.svg "Login") ![MFA](/public/tags/mfa.svg "MFA") |
 | ![logo](/public/logos/form-x-ai.svg) | FormX.ai | [auth.formextractorai.com/login](https://auth.formextractorai.com/login) | ![Login](/public/tags/login.svg "Login") |
-| ![logo](/public/logos/github.svg) | GitHub | [github.com](https://docs.github.com/en/authentication/authenticating-with-a-passkey/signing-in-with-a-passkey) | ![Login](/public/tags/login.svg "Login") ![MFA](/public/tags/mfa.svg "MFA") |
+| ![logo](/public/logos/github.svg) | GitHub | [docs.github.com](https://docs.github.com/en/authentication/authenticating-with-a-passkey/signing-in-with-a-passkey) | ![Login](/public/tags/login.svg "Login") ![MFA](/public/tags/mfa.svg "MFA") |
+| ![logo](/public/logos/gitlab.svg) | GitLab | [docs.gitlab.com](https://docs.gitlab.com/ee/user/profile/account/two_factor_authentication.html) | ![Login](/public/tags/login.svg "Login") ![MFA](/public/tags/mfa.svg "MFA") |
+| ![logo](/public/logos/gitea.svg) | Gitea | [docs.gitea.com](https://docs.gitea.com/usage/multi-factor-authentication) | ![Login](/public/tags/login.svg "Login") ![MFA](/public/tags/mfa.svg "MFA") |
 | ![logo](/public/logos/godaddy.svg) | GoDaddy | [sso.godaddy.com](https://sso.godaddy.com/) | ![Login](/public/tags/login.svg "Login") ![MFA](/public/tags/mfa.svg "MFA") |
 | ![logo](/public/logos/google.svg) | Google | [www.google.com](https://www.google.com/) | ![Login](/public/tags/login.svg "Login") ![MFA](/public/tags/mfa.svg "MFA") |
 | ![logo](/public/logos/hanko.svg) | Hanko | [cloud.hanko.io/login](https://cloud.hanko.io/login) | ![Login](/public/tags/login.svg "Login") |
