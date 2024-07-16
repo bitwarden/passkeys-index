@@ -11,17 +11,20 @@ This is a living list. If you are aware of other solutions, websites or platform
 
 | Logo | Company | Product |
 | --- | --- | --- |
-| ![logo](/public/logos/microsoft.svg) | Microsoft | Microsoft Edge |
-| ![logo](/public/logos/google.svg) | Google | Chrome on Windows |
-| ![logo](/public/logos/google.svg) | Google | Chrome on macOS |
-| ![logo](/public/logos/google.svg) | Google | Android |
-| ![logo](/public/logos/google.svg) | Google | Developer [Documentation](https://developers.google.com/identity/passkeys/supported-environments) |
 | ![logo](/public/logos/apple.svg) | Apple | iOS 16 |
 | ![logo](/public/logos/apple.svg) | Apple | iPadOS 16 |
 | ![logo](/public/logos/apple.svg) | Apple | macOS Ventura |
 | ![logo](/public/logos/apple.svg) | Apple | MacBooks with macOS Ventura, Monterey, Big Sur |
 | ![logo](/public/logos/apple.svg) | Apple | Safari |
 | ![logo](/public/logos/apple.svg) | Apple | Developer [Documentation](https://developer.apple.com/documentation/authenticationservices/public-private_key_authentication/supporting_passkeys) |
+| ![logo](/public/logos/firefox.svg) | Mozilla | Firefox on Windows |
+| ![logo](/public/logos/firefox.svg) | Mozilla | Firefox on macOS |
+| ![logo](/public/logos/firefox.svg) | Mozilla | Firefox on iOS |
+| ![logo](/public/logos/google.svg) | Google | Chrome on Windows |
+| ![logo](/public/logos/google.svg) | Google | Chrome on macOS |
+| ![logo](/public/logos/google.svg) | Google | Android |
+| ![logo](/public/logos/google.svg) | Google | Developer [Documentation](https://developers.google.com/identity/passkeys/supported-environments) |
+| ![logo](/public/logos/microsoft.svg) | Microsoft | Microsoft Edge |
 
 ### **Websites supporting passkey login** {#websites}
 
@@ -32,6 +35,7 @@ This is a living list. If you are aware of other solutions, websites or platform
 | ![logo](/public/logos/arpari.svg) | Arpari | [app.arpari.com/login](https://app.arpari.com/login) | ![Login](/public/tags/login.svg "Login") | 
 | ![logo](/public/logos/authgear.svg)| Authgear | [accounts.portal.authgearapps.com/login](https://accounts.portal.authgearapps.com/login) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/authentik.svg)| authentik | [docs.goauthentik.io](https://docs.goauthentik.io/docs/flow/stages/authenticator_validate/#passwordless-authentication) | ![Login](/public/tags/login.svg "Login") ![MFA](/public/tags/mfa.svg "MFA") |
+| ![logo](/public/logos/boa.svg) | Bank of America | [www.bankofamerica.com](https://www.bankofamerica.com/security-center/online-mobile-banking-privacy/usb-security-key/) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/best-buy.svg) | Best Buy | [www.bestbuy.com/identity/signin](https://www.bestbuy.com/identity/signin) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/beyond-identity.svg) | Beyond Identity | [console-us.beyondidentity.com/signup](https://console-us.beyondidentity.com/signup) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/bitwarden.svg) | Bitwarden | [bitwarden.com](https://bitwarden.com) | ![Login](/public/tags/login.svg "Login") ![MFA](/public/tags/mfa.svg "MFA") |
@@ -39,6 +43,7 @@ This is a living list. If you are aware of other solutions, websites or platform
 | ![logo](/public/logos/braun.svg) | Braunhousehold | [braunhousehold.com](https://braunhousehold.com) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/card-pointers.svg) | Card Pointers | [cardpointers.com/login](https://cardpointers.com/login/) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/carnival.svg) | Carnival | [carnival.com](https://carnival.com) | ![Login](/public/tags/login.svg "Login") |
+| ![logo](/public/logos/citibank.svg) | Citibank | [www.citi.com](https://www.citi.com/) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/coinbase.svg) | Coinbase | [www.coinbase.com](https://www.coinbase.com/) | ![Login](/public/tags/login.svg "Login") ![MFA](/public/tags/mfa.svg "MFA") |
 | ![logo](/public/logos/corbado.svg) | Corbado | [app.corbado.com/signin](https://app.corbado.com/signin) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/cvs.svg) | CVS | [www.cvs.com](https://www.cvs.com/) | ![Login](/public/tags/login.svg "Login") ![MFA](/public/tags/mfa.svg "MFA") |
@@ -47,6 +52,7 @@ This is a living list. If you are aware of other solutions, websites or platform
 | ![logo](/public/logos/discourse.svg) | Discourse | [meta.discourse.org](https://meta.discourse.org/t/support-passwordless-login-with-passkeys) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/docomo.svg) | Docomo | [www.docomo.ne.jp/english](https://www.docomo.ne.jp/english/) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/docusign.svg) | DocuSign | [account.docusign.com](https://account.docusign.com/) | ![Login](/public/tags/login.svg "Login") ![MFA](/public/tags/mfa.svg "MFA") |
+| ![logo](/public/logos/dropbox.svg) | Dropbox | [help.dropbox.com](https://help.dropbox.com/account-access/enable-two-step-verification#securitykey) | ![Login](/public/tags/login.svg "Login") ![MFA](/public/tags/mfa.svg "MFA") |
 | ![logo](/public/logos/ebay.svg) | eBay | [signin.ebay.com/ws/eBayISAPI.dll](https://signin.ebay.com/ws/eBayISAPI.dll) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/forgejo.svg) | Forgejo | [forgejo.org](https://forgejo.org/) | ![Login](/public/tags/login.svg "Login") ![MFA](/public/tags/mfa.svg "MFA") |
 | ![logo](/public/logos/form-x-ai.svg) | FormX.ai | [auth.formextractorai.com/login](https://auth.formextractorai.com/login) | ![Login](/public/tags/login.svg "Login") |
@@ -76,10 +82,12 @@ This is a living list. If you are aware of other solutions, websites or platform
 | ![logo](/public/logos/qapital.svg) | Qapital | [qapital.com](https://qapital.com/) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/robinhood.svg) | Robinhood | [robinhood.com/login](https://robinhood.com/login) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/roblox.svg) | Roblox | [roblox.com/login](https://roblox.com/login) | ![Login](/public/tags/login.svg "Login") |
-| ![logo](/public/logos/stripe.svg) | Stripe | [stripe.com](https://stripe.com) | ![Login](/public/tags/login.svg "Login") | ![MFA](/public/tags/mfa.svg "MFA") |
+| ![logo](/public/logos/salesforce.svg) | Salesforce | [help.salesforce.com](https://help.salesforce.com/s/articleView?id=sf.use_built_in_authenticators_as_a_verification_method.htm&type=5) | ![Login](/public/tags/login.svg "Login") | ![MFA](/public/tags/mfa.svg "MFA") |
+| ![logo](/public/logos/samsung.svg) | Samsung | [samsung.com](https://www.samsung.com/uk/support/apps-services/how-to-create-and-use-a-passkey/) | ![Login](/public/tags/login.svg "Login") | ![MFA](/public/tags/mfa.svg "MFA") |
 | ![logo](/public/logos/shop.svg) | Shop Pay | [shop.app](https://shop.app) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/shopify.svg) | Shopify | [accounts.shopify.com/lookup](https://accounts.shopify.com/lookup) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/playstation.svg) | Sony Playstation | [www.playstation.com](https://www.playstation.com/en-us/passkey/) | ![Login](/public/tags/login.svg "Login") |
+| ![logo](/public/logos/stripe.svg) | Stripe | [support.stripe.com](https://support.stripe.com/questions/set-up-a-passkey-for-one-click-login) | ![Login](/public/tags/login.svg "Login") | ![MFA](/public/tags/mfa.svg "MFA") |
 | ![logo](/public/logos/synology.svg) | Synology DSM | [www.synology.com/en-global/dsm](https://www.synology.com/en-global/dsm) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/tailscale.svg) | Tailscale | [tailscale.com](https://tailscale.com/) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/tender.svg) | Tender | [tender.run](https://tender.run/) | ![Login](/public/tags/login.svg "Login") |
@@ -90,8 +98,9 @@ This is a living list. If you are aware of other solutions, websites or platform
 | ![logo](/public/logos/vault-vision.svg) | Vault Vision | [vaultvision.com](https://vaultvision.com/) | ![Login](/public/tags/login.svg "Login") ![MFA](/public/tags/mfa.svg "MFA") |
 | ![logo](/public/logos/vercel.svg) | Vercel | [vercel.com](https://vercel.com/) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/virgin-media.svg) | Virgin Media | [virginmedia.com](https://virginmedia.com/) | ![Login](/public/tags/login.svg "Login") |
-| ![logo](/public/logos/webauthn.svg) | WebAuthn.io | [webauthn.io](https://webauthn.io/) | ![Login](/public/tags/login.svg "Login") |
+| ![logo](/public/logos/webauthn.svg) | WebAuthn\.io | [webauthn.io](https://webauthn.io/) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/hyatt.svg) | World of Hyatt | [hyatt.com](https://hyatt.com/) | ![Login](/public/tags/login.svg "Login") |
+| ![logo](/public/logos/x.svg) | X (formerly Twitter) | [help.x.com](https://help.x.com/en/managing-your-account/how-to-use-passkey) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/yahoo.svg) | Yahoo! | [www.yahoo.com](https://www.yahoo.com/) | ![Login](/public/tags/login.svg "Login") ![MFA](/public/tags/mfa.svg "MFA") |
 | ![logo](/public/logos/zoho.svg) | Zoho | [zoho.com](http://zoho.com/) | ![Login](/public/tags/login.svg "Login") ![MFA](/public/tags/mfa.svg "MFA") |
 | ![logo](/public/logos/whatsapp.svg) | WhatsApp | [whatsapp.com](https://faq.whatsapp.com/1850567238795036/?cms_platform=android&helpref=platform_switcher) | ![MFA](/public/tags/mfa.svg "MFA") |
