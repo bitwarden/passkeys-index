@@ -3,8 +3,10 @@ import mdx from "@astrojs/mdx";
 
 import tailwind from "@astrojs/tailwind";
 
+const SITE_URL = import.meta.env.SITE_URL;
+
 // https://astro.build/config
 export default defineConfig({
-  site: "https://passkeyindex.io",
+  site: SITE_URL,
   integrations: [mdx(), tailwind()],
 });
