@@ -1,5 +1,5 @@
 ---
-import { marked, Renderer, type Token } from "marked";
+import { marked, Renderer } from "marked";
 import cx from "classnames";
 
 import Layout from "../layout/Layout.astro";
@@ -7,11 +7,9 @@ import Banner from "../components/Banner.astro";
 import Tabs from "../components/Tabs.astro";
 import TabPanel from "../components/TabPanel.astro";
 import SearchField from "../components/SearchField.astro";
-import * as passkeyIndexMd from "../../README.md";
+import { getReadMeData } from "../utils/markdown";
 
 export const prerender = true;
-
-const markdown = passkeyIndexMd.rawContent();
 
 // Shared renderers
 const iconImageRenderer: Renderer["image"] = (href, title, text) => {
@@ -83,29 +81,7 @@ websitesRenderer.tablecell = (content, flags) => {
   )}">${renderContent(content, flags)}</div>`;
 };
 
-const content = marked.lexer(markdown);
-
-const { platforms, websites, developerTools, securityKeys } = content.reduce(
-  (acc, item, index, array) => {
-    if (item.type !== "heading") return acc;
-    if (item.text?.includes("{#platforms}")) {
-      acc.platforms = array[index + 1];
-    } else if (item.text?.includes("{#websites}")) {
-      acc.websites = array[index + 1];
-    } else if (item.text?.includes("{#developer-tools}")) {
-      acc.developerTools = array[index + 1];
-    } else if (item.text?.includes("{#security-keys}")) {
-      acc.securityKeys = array[index + 1];
-    }
-    return acc;
-  },
-  {} as {
-    platforms: Token;
-    websites: Token;
-    developerTools: Token;
-    securityKeys: Token;
-  }
-);
+const { platforms, websites, developerTools, securityKeys } = getReadMeData();
 ---
 
 <Layout>
