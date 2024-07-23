@@ -30,15 +30,21 @@ This is a living list. If you are aware of other solutions, websites or platform
 
 | Logo | Site/Company name | Site URL | Features |
 | --- | --- | --- | ---: |
+| ![logo](/public/logos/abanca.svg) | ABANCA | [comunicacion.abanca.com](https://comunicacion.abanca.com/es/noticias/abanca-primer-banco-espanol-en-implantar-la-tecnologia-de-llaves-de-acceso-en-la-banca-movil-para-reforzar-la-seguridad-de-sus-clientes/) | ![Login](/public/tags/login.svg "Login") | 
 | ![logo](/public/logos/adobe.svg) | Adobe | [account.adobe.com/login](https://account.adobe.com/) | ![Login](/public/tags/login.svg "Login") | 
+| ![logo](/public/logos/aflac.svg) | Aflac Japan | [www.aflac.co.jp](https://www.aflac.co.jp/) | ![Login](/public/tags/login.svg "Login") |
+| ![logo](/public/logos/affirm.svg) | Affirm | [helpcenter.affirm.com](https://helpcenter.affirm.com/s/article/Set-up-a-Passkey) | ![Login](/public/tags/login.svg "Login") |
+| ![logo](/public/logos/air-new-zealand.svg) | Air New Zealand | [www.airnewzealand.com](https://www.airnewzealand.com/manage-multi-factor-authentication#passkeys) | ![Login](/public/tags/login.svg "Login") ![MFA](/public/tags/mfa.svg "MFA") |
 | ![logo](/public/logos/amazon.svg) | Amazon | [www.amazon.com](https://www.amazon.com/) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/arpari.svg) | Arpari | [app.arpari.com/login](https://app.arpari.com/login) | ![Login](/public/tags/login.svg "Login") | 
 | ![logo](/public/logos/authgear.svg)| Authgear | [accounts.portal.authgearapps.com/login](https://accounts.portal.authgearapps.com/login) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/authentik.svg)| authentik | [docs.goauthentik.io](https://docs.goauthentik.io/docs/flow/stages/authenticator_validate/#passwordless-authentication) | ![Login](/public/tags/login.svg "Login") ![MFA](/public/tags/mfa.svg "MFA") |
+| ![logo](/public/logos/aws.svg)| Amazon Web Services (AWS) | [aws.amazon.com](https://aws.amazon.com/iam/features/mfa/?audit=2019q1) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/boa.svg) | Bank of America | [www.bankofamerica.com](https://www.bankofamerica.com/security-center/online-mobile-banking-privacy/usb-security-key/) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/best-buy.svg) | Best Buy | [www.bestbuy.com/identity/signin](https://www.bestbuy.com/identity/signin) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/beyond-identity.svg) | Beyond Identity | [console-us.beyondidentity.com/signup](https://console-us.beyondidentity.com/signup) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/bitwarden.svg) | Bitwarden | [bitwarden.com](https://bitwarden.com) | ![Login](/public/tags/login.svg "Login") ![MFA](/public/tags/mfa.svg "MFA") |
+| ![logo](/public/logos/bmw.svg) | BMW | [mybmw.bmwusa.com](https://mybmw.bmwusa.com/) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/boursobank.svg) | BoursoBank | [clients.boursobank.com](https://clients.boursobank.com/) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/braun.svg) | Braunhousehold | [braunhousehold.com](https://braunhousehold.com) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/card-pointers.svg) | Card Pointers | [cardpointers.com/login](https://cardpointers.com/login/) | ![Login](/public/tags/login.svg "Login") |
