@@ -63,21 +63,28 @@ This is a living list. If you are aware of other solutions, websites or platform
 | ![logo](/public/logos/cyberark.svg) | CyberArk Identity | [docs.cyberark.com/](https://docs.cyberark.com/identity/Latest/en/Content/UserPortal/user-setup-passkey.htm?tocpath=End%20User%7CSet%20up%20authentication%7C_____6) | ![Login](/public/tags/login.svg "Login") ![MFA](/public/tags/mfa.svg "MFA") |
 | ![logo](/public/logos/daylite.svg) | Daylite | [www.marketcircle.com/account/login](https://www.marketcircle.com/account/login) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/dinero.svg) | Dinero | [dinero.dk](https://dinero.dk) | ![Login](/public/tags/login.svg "Login") |
+| ![logo](/public/logos/discord.svg) | Discord | [discord.com/blog](https://discord.com/blog/how-discord-modernized-mfa-with-webauthn) | ![Login](/public/tags/login.svg "Login") ![MFA](/public/tags/mfa.svg "MFA") |
 | ![logo](/public/logos/discourse.svg) | Discourse | [meta.discourse.org](https://meta.discourse.org/t/support-passwordless-login-with-passkeys) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/docomo.svg) | Docomo | [www.docomo.ne.jp/english](https://www.docomo.ne.jp/english/) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/docusign.svg) | DocuSign | [account.docusign.com](https://account.docusign.com/) | ![Login](/public/tags/login.svg "Login") ![MFA](/public/tags/mfa.svg "MFA") |
 | ![logo](/public/logos/dropbox.svg) | Dropbox | [help.dropbox.com](https://help.dropbox.com/account-access/enable-two-step-verification#securitykey) | ![Login](/public/tags/login.svg "Login") ![MFA](/public/tags/mfa.svg "MFA") |
 | ![logo](/public/logos/ebay.svg) | eBay | [signin.ebay.com/ws/eBayISAPI.dll](https://signin.ebay.com/ws/eBayISAPI.dll) | ![Login](/public/tags/login.svg "Login") |
+| ![logo](/public/logos/fleeps.svg) | fleeps | [fleeps.co](https://fleeps.co/) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/forgejo.svg) | Forgejo | [forgejo.org](https://forgejo.org/) | ![Login](/public/tags/login.svg "Login") ![MFA](/public/tags/mfa.svg "MFA") |
 | ![logo](/public/logos/form-x-ai.svg) | FormX.ai | [auth.formextractorai.com/login](https://auth.formextractorai.com/login) | ![Login](/public/tags/login.svg "Login") |
+| ![logo](/public/logos/gemini.svg) | Gemini | [support.gemini.com](https://support.gemini.com/hc/en-us/articles/17421039737243-What-are-passkeys) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/github.svg) | GitHub | [docs.github.com](https://docs.github.com/en/authentication/authenticating-with-a-passkey/signing-in-with-a-passkey) | ![Login](/public/tags/login.svg "Login") ![MFA](/public/tags/mfa.svg "MFA") |
 | ![logo](/public/logos/gitlab.svg) | GitLab | [docs.gitlab.com](https://docs.gitlab.com/ee/user/profile/account/two_factor_authentication.html) | ![Login](/public/tags/login.svg "Login") ![MFA](/public/tags/mfa.svg "MFA") |
 | ![logo](/public/logos/gitea.svg) | Gitea | [docs.gitea.com](https://docs.gitea.com/usage/multi-factor-authentication) | ![Login](/public/tags/login.svg "Login") ![MFA](/public/tags/mfa.svg "MFA") |
 | ![logo](/public/logos/godaddy.svg) | GoDaddy | [sso.godaddy.com](https://sso.godaddy.com/) | ![Login](/public/tags/login.svg "Login") ![MFA](/public/tags/mfa.svg "MFA") |
 | ![logo](/public/logos/google.svg) | Google | [www.google.com](https://www.google.com/) | ![Login](/public/tags/login.svg "Login") ![MFA](/public/tags/mfa.svg "MFA") |
+| ![logo](/public/logos/haeppie.svg) | haeppie | [be.haeppie.com/auth](https://be.haeppie.com/auth) | ![Login](/public/tags/login.svg "Login") |
+| ![logo](/public/logos/hancock.svg) | Hancock.ink | [idp.hancock.ink](https://idp.hancock.ink/v0) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/hanko.svg) | Hanko | [cloud.hanko.io/login](https://cloud.hanko.io/login) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/home-depot.svg) | Home Depot | [www.homedepot.com](https://www.homedepot.com/) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/horizon-pics.svg) | Horizon Pics | [horizon.pics](https://horizon.pics) | ![Login](/public/tags/login.svg "Login") |
+| ![logo](/public/logos/ibm.svg) | IBM Verify | [www.ibm.com/docs](https://www.ibm.com/docs/en/security-verify?topic=launchpad-managing-your-verify-authenticators) | ![Login](/public/tags/login.svg "Login") |
+| ![logo](/public/logos/imo.svg) | imo | [imo.im](https://imo.im/) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/instacart.svg) | Instacart | [www.instacart.com](https://www.instacart.com/) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/kayak.svg) | Kayak | [www.kayak.com](https://www.kayak.com/) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/kenwood.svg) | Kenwoodworld.com | [kenwoodworld.com](https://kenwoodworld.com) | ![Login](/public/tags/login.svg "Login") |
