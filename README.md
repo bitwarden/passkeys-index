@@ -43,16 +43,24 @@ This is a living list. If you are aware of other solutions, websites or platform
 | ![logo](/public/logos/boa.svg) | Bank of America | [www.bankofamerica.com](https://www.bankofamerica.com/security-center/online-mobile-banking-privacy/usb-security-key/) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/best-buy.svg) | Best Buy | [www.bestbuy.com/identity/signin](https://www.bestbuy.com/identity/signin) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/beyond-identity.svg) | Beyond Identity | [console-us.beyondidentity.com/signup](https://console-us.beyondidentity.com/signup) | ![Login](/public/tags/login.svg "Login") |
+| ![logo](/public/logos/binance.svg) | Binance | [www.binance.com](https://www.binance.com/en/support/faq/how-to-create-a-passkey-for-my-binance-account-2aec8fe0437242f2a5fbef9cdb71d4c2) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/bitwarden.svg) | Bitwarden | [bitwarden.com](https://bitwarden.com) | ![Login](/public/tags/login.svg "Login") ![MFA](/public/tags/mfa.svg "MFA") |
+| ![logo](/public/logos/blue-ocean-law.svg) | Blue Ocean Law | [www.blueocean.law](https://www.blueocean.law/) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/bmw.svg) | BMW | [mybmw.bmwusa.com](https://mybmw.bmwusa.com/) | ![Login](/public/tags/login.svg "Login") |
+| ![logo](/public/logos/boursobank.svg) | Bourseroma | [www.boursorama.com](https://www.boursorama.com/) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/boursobank.svg) | BoursoBank | [clients.boursobank.com](https://clients.boursobank.com/) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/braun.svg) | Braunhousehold | [braunhousehold.com](https://braunhousehold.com) | ![Login](/public/tags/login.svg "Login") |
+| ![logo](/public/logos/bridgecrest.svg) | Bridgecrest | [bridgecrest.com](https://bridgecrest.com) | ![Login](/public/tags/login.svg "Login") |
+| ![logo](/public/logos/cape-cod-5.svg) | Cape Cod 5 | [www.capecodfive.com](https://www.capecodfive.com/) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/card-pointers.svg) | Card Pointers | [cardpointers.com/login](https://cardpointers.com/login/) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/carnival.svg) | Carnival | [carnival.com](https://carnival.com) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/citibank.svg) | Citibank | [www.citi.com](https://www.citi.com/) | ![Login](/public/tags/login.svg "Login") |
+| ![logo](/public/logos/cloudflare.svg) | Cloudflare | [developers.cloudflare.com](https://developers.cloudflare.com/fundamentals/setup/account/account-security/2fa/) | ![Login](/public/tags/login.svg "Login") ![MFA](/public/tags/mfa.svg "MFA") |
 | ![logo](/public/logos/coinbase.svg) | Coinbase | [www.coinbase.com](https://www.coinbase.com/) | ![Login](/public/tags/login.svg "Login") ![MFA](/public/tags/mfa.svg "MFA") |
 | ![logo](/public/logos/corbado.svg) | Corbado | [app.corbado.com/signin](https://app.corbado.com/signin) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/cvs.svg) | CVS | [www.cvs.com](https://www.cvs.com/) | ![Login](/public/tags/login.svg "Login") ![MFA](/public/tags/mfa.svg "MFA") |
+| ![logo](/public/logos/cvs.svg) | CVS Caremark | [www.caremark.com](https://www.caremark.com/digital-fast/caremark-login-web/#/login) | ![Login](/public/tags/login.svg "Login") ![MFA](/public/tags/mfa.svg "MFA") |
+| ![logo](/public/logos/cyberark.svg) | CyberArk Identity | [docs.cyberark.com/](https://docs.cyberark.com/identity/Latest/en/Content/UserPortal/user-setup-passkey.htm?tocpath=End%20User%7CSet%20up%20authentication%7C_____6) | ![Login](/public/tags/login.svg "Login") ![MFA](/public/tags/mfa.svg "MFA") |
 | ![logo](/public/logos/daylite.svg) | Daylite | [www.marketcircle.com/account/login](https://www.marketcircle.com/account/login) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/dinero.svg) | Dinero | [dinero.dk](https://dinero.dk) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/discourse.svg) | Discourse | [meta.discourse.org](https://meta.discourse.org/t/support-passwordless-login-with-passkeys) | ![Login](/public/tags/login.svg "Login") |
