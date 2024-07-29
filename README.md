@@ -90,6 +90,7 @@ This is a living list. If you are aware of other solutions, websites or platform
 | ![logo](/public/logos/kenwood.svg) | Kenwoodworld.com | [kenwoodworld.com](https://kenwoodworld.com) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/kraken.svg) | Kraken | [kraken.com](https://support.kraken.com/hc/en-us/articles/what-is-a-passkey) | ![Login](/public/tags/login.svg "Login") ![MFA](/public/tags/mfa.svg "MFA") |
 | ![logo](/public/logos/laakari-chat.svg) | Laakari.chat | [laakari.chat](https://laakari.chat) | ![Login](/public/tags/login.svg "Login") |
+| ![logo](/public/logos/linkedin.svg) | LinkedIn | [linkedin.com](https://www.linkedin.com/help/linkedin/answer/a1621596) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/mangadex.svg) | Mangadex | [mangadex.org](https://mangadex.org/) | ![Login](/public/tags/login.svg "Login") ![MFA](/public/tags/mfa.svg "MFA") |
 | ![logo](/public/logos/microsoft.svg) | Microsoft | [microsoft.com](https://microsoft.com/) | ![Login](/public/tags/login.svg "Login") ![MFA](/public/tags/mfa.svg "MFA") |
 | ![logo](/public/logos/money-forward.svg) | Money Forward ID | [id.moneyforward.com/sign_in](https://id.moneyforward.com/sign_in) | ![Login](/public/tags/login.svg "Login") |
