@@ -44,6 +44,7 @@ This is a living list. If you are aware of other solutions, websites or platform
 | ![logo](/public/logos/best-buy.svg) | Best Buy | [www.bestbuy.com/identity/signin](https://www.bestbuy.com/identity/signin) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/beyond-identity.svg) | Beyond Identity | [console-us.beyondidentity.com/signup](https://console-us.beyondidentity.com/signup) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/binance.svg) | Binance | [www.binance.com](https://www.binance.com/en/support/faq/how-to-create-a-passkey-for-my-binance-account-2aec8fe0437242f2a5fbef9cdb71d4c2) | ![Login](/public/tags/login.svg "Login") |
+| ![logo](/public/logos/bitbank.svg) | bitbank | [bitbank.cc](https://support.bitbank.cc/hc/ja/articles/33591659742745-%E7%94%9F%E4%BD%93%E8%AA%8D%E8%A8%BC%E3%82%92%E8%A8%AD%E5%AE%9A%E3%81%97%E3%81%9F%E3%81%84) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/bitwarden.svg) | Bitwarden | [bitwarden.com](https://bitwarden.com) | ![Login](/public/tags/login.svg "Login") ![MFA](/public/tags/mfa.svg "MFA") |
 | ![logo](/public/logos/blue-ocean-law.svg) | Blue Ocean Law | [www.blueocean.law](https://www.blueocean.law/) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/bmw.svg) | BMW | [mybmw.bmwusa.com](https://mybmw.bmwusa.com/) | ![Login](/public/tags/login.svg "Login") |
