@@ -70,7 +70,7 @@ This is a living list. If you are aware of other solutions, websites or platform
 | ![logo](/public/logos/docusign.svg) | DocuSign | [account.docusign.com](https://account.docusign.com/) | ![Login](/public/tags/login.svg "Login") ![MFA](/public/tags/mfa.svg "MFA") |
 | ![logo](/public/logos/dropbox.svg) | Dropbox | [help.dropbox.com](https://help.dropbox.com/account-access/enable-two-step-verification#securitykey) | ![Login](/public/tags/login.svg "Login") ![MFA](/public/tags/mfa.svg "MFA") |
 | ![logo](/public/logos/ebay.svg) | eBay | [signin.ebay.com/ws/eBayISAPI.dll](https://signin.ebay.com/ws/eBayISAPI.dll) | ![Login](/public/tags/login.svg "Login") |
-| ![logo](/public/logos/fastmail.svg) | Fastmail | [betaapp.fastmail.com](https://betaapp.fastmail.com/settings/security/passkeys) | ![Login](/public/tags/login.svg) ![MFA](/public/tags/mfa.svg) |
+| ![logo](/public/logos/fastmail.svg) | Fastmail | [app.fastmail.com](https://app.fastmail.com/settings/security/passkeys) | ![Login](/public/tags/login.svg) ![MFA](/public/tags/mfa.svg) |
 | ![logo](/public/logos/fleeps.svg) | fleeps | [fleeps.co](https://fleeps.co/) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/forgejo.svg) | Forgejo | [forgejo.org](https://forgejo.org/) | ![Login](/public/tags/login.svg "Login") ![MFA](/public/tags/mfa.svg "MFA") |
 | ![logo](/public/logos/form-x-ai.svg) | FormX.ai | [auth.formextractorai.com/login](https://auth.formextractorai.com/login) | ![Login](/public/tags/login.svg "Login") |
