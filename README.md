@@ -112,7 +112,6 @@ This is a living list. If you are aware of other solutions, websites or platform
 | ![logo](/public/logos/nvidia.svg) | Nvidia | [nvidia.com](https://nvidia.com/) | ![Login](/public/tags/login.svg "Login") ![MFA](/public/tags/mfa.svg "MFA") |
 | ![logo](/public/logos/okta.svg) | Okta | [okta.com](https://okta.com/) | ![Login](/public/tags/login.svg "Login") ![MFA](/public/tags/mfa.svg "MFA") |
 | ![logo](/public/logos/omglol.svg) | omg.lol | [omg.lol](https://omg.lol) | ![Login](/public/tags/login.svg "Login") |
-| ![logo](/public/logos/onlyfans.svg) | OnlyFans | [corbado.com/blog/onlyfans-passkeys](https://www.corbado.com/blog/onlyfans-passkeys) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/pastery.svg) | Pastery | [pastry.net](https://pastery.net/) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/paypal.svg) | PayPal | [www.paypal.com/signin](https://www.paypal.com/signin/) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/porkbun.svg) | porkbun | [kb.porkbun.com](https://kb.porkbun.com/article/119-how-to-secure-your-account-with-a-physical-security-key-using-webauthn) | ![Login](/public/tags/login.svg "Login") |
