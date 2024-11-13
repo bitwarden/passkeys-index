@@ -41,7 +41,6 @@ This is a living list. If you are aware of other solutions, websites or platform
 | ![logo](/public/logos/authgear.svg)| Authgear | [accounts.portal.authgearapps.com/login](https://accounts.portal.authgearapps.com/login) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/authentik.svg)| authentik | [docs.goauthentik.io](https://docs.goauthentik.io/docs/flow/stages/authenticator_validate/#passwordless-authentication) | ![Login](/public/tags/login.svg "Login") ![MFA](/public/tags/mfa.svg "MFA") |
 | ![logo](/public/logos/aws.svg)| Amazon Web Services (AWS) | [aws.amazon.com](https://aws.amazon.com/iam/features/mfa/?audit=2019q1) | ![Login](/public/tags/login.svg "Login") |
-| ![logo](/public/logos/boa.svg) | Bank of America | [www.bankofamerica.com](https://www.bankofamerica.com/security-center/online-mobile-banking-privacy/usb-security-key/) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/best-buy.svg) | Best Buy | [www.bestbuy.com/identity/signin](https://www.bestbuy.com/identity/signin) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/beyond-identity.svg) | Beyond Identity | [console-us.beyondidentity.com/signup](https://console-us.beyondidentity.com/signup) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/binance.svg) | Binance | [www.binance.com](https://www.binance.com/en/support/faq/how-to-create-a-passkey-for-my-binance-account-2aec8fe0437242f2a5fbef9cdb71d4c2) | ![Login](/public/tags/login.svg "Login") |
