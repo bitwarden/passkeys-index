@@ -1,5 +1,5 @@
 ---
-import { marked, Renderer } from "marked";
+import { marked, Renderer, type Tokens } from "marked";
 import cx from "classnames";
 
 import Layout from "../layout/Layout.astro";
@@ -12,14 +12,14 @@ import { getReadMeData } from "../utils/markdown";
 export const prerender = true;
 
 // Shared renderers
-const iconImageRenderer: Renderer["image"] = (href, title, text) => {
+const iconImageRenderer: Renderer["image"] = ({ href, title, text }) => {
   return `<img class="min-w-8 h-8" src="${href.replace("/public", "")}" alt="${text}" title="${title}" />`;
 };
-const responsiveUrlRenderer: Renderer["link"] = (href, title, text) => {
+const responsiveUrlRenderer: Renderer["link"] = ({ href, title, text }) => {
   return `<a href="${href}" title="${title}" target="_blank" rel="noopener noreferrer"><span class="hidden lg:block">${text}</span><span class="lg:hidden">Website</span></a>`;
 };
 const tableRowRenderer: Renderer["tablerow"] = (content) => {
-  return `${content}`;
+  return `${content.text}`;
 };
 const getAlignStyle = (align: string | null) => {
   return align
@@ -31,45 +31,80 @@ const getAlignStyle = (align: string | null) => {
     : null;
 };
 
-const renderContent = (
-  content: string,
-  flags: { header: boolean; align: string | null }
-) => {
-  if (flags.header) {
+const renderContent = ({
+  text,
+  header,
+}: {
+  text: string;
+  header: boolean;
+  align: string | null;
+}) => {
+  if (header) {
     // Hide logo and features headers
-    if (content === "Logo" || content === "Features") {
+    if (text === "Logo" || text === "Features") {
       return "";
     }
   }
-  return content;
+  return text;
 };
+
+const renderTableCells = (
+  cells: Tokens.TableCell[],
+  renderer = defaultRenderer
+) => cells.map((cell) => renderer.tablecell(cell)).join("");
+const renderTableRows = (
+  rows: Tokens.TableCell[][],
+  renderer = defaultRenderer
+) => rows.map((row) => renderTableCells(row, renderer)).join("");
 
 const defaultRenderer = new marked.Renderer();
 defaultRenderer.image = iconImageRenderer;
 defaultRenderer.tablerow = tableRowRenderer;
-defaultRenderer.table = (header, body) => {
-  return `<div class="grid w-full grid-cols-[auto,auto,minmax(auto,1fr)] md:grid-cols-[auto_minmax(222px,auto)_1fr]" data-columns="3">${header}${body}</div>`;
-};
-defaultRenderer.tablecell = (content, flags) => {
+defaultRenderer.tablecell = (cell) => {
+  let content: string;
+  // Hide logo header
+  if (cell.header && cell.text === "Logo") {
+    content = "";
+  } else {
+    content = websitesRenderer.parser.parseInline(cell.tokens);
+  }
+
   return `<div class="${cx(
-    flags.header ? "header font-bold hidden md:block" : "cell",
+    cell.header ? "header font-bold hidden md:block" : "cell",
     "py-[13.5px] px-3 border-b md:border-lightGray flex items-center",
     // Border styles
     "border-b [&:nth-last-child(-n+3)]:border-b-0 border-lightGray",
-    getAlignStyle(flags.align)
-  )}"><span>${renderContent(content, flags)}</span></div>`;
+    getAlignStyle(cell.align)
+  )}"><span>${content}</span></div>`;
+};
+defaultRenderer.table = ({ header, rows }) => {
+  return `<div class="grid w-full grid-cols-[auto,auto,minmax(auto,1fr)] md:grid-cols-[auto_minmax(222px,auto)_1fr]" data-columns="3">
+    ${renderTableCells(header)}
+    ${renderTableRows(rows)}
+  </div>`;
 };
 
 const websitesRenderer = new marked.Renderer();
 websitesRenderer.image = iconImageRenderer;
 websitesRenderer.link = responsiveUrlRenderer;
 websitesRenderer.tablerow = tableRowRenderer;
-websitesRenderer.table = (header, body) => {
-  return `<div class="grid w-full grid-cols-[auto_minmax(100px,1fr)_auto] md:grid-cols-[auto_1fr_auto_auto] lg:grid-cols-[auto_minmax(222px,auto)_1fr_auto]" data-columns="4">${header}${body}</div>`;
+websitesRenderer.table = ({ header, rows }) => {
+  return `<div class="grid w-full grid-cols-[auto_minmax(100px,1fr)_auto] md:grid-cols-[auto_1fr_auto_auto] lg:grid-cols-[auto_minmax(222px,auto)_1fr_auto]" data-columns="4">
+    ${renderTableCells(header, websitesRenderer)}
+    ${renderTableRows(rows, websitesRenderer)}
+  </div>`;
 };
-websitesRenderer.tablecell = (content, flags) => {
+websitesRenderer.tablecell = (cell) => {
+  let content: string;
+  // Hide logo and features headers
+  if (cell.header && ["Logo", "Features"].includes(cell.text)) {
+    content = "";
+  } else {
+    content = websitesRenderer.parser.parseInline(cell.tokens);
+  }
+
   return `<div class="${cx(
-    flags.header ? "header font-bold hidden md:block" : "cell",
+    cell.header ? "header font-bold hidden md:block" : "cell",
     "py-[13.5px] px-1 md:px-3 flex items-center",
     // Name styles
     "[&:nth-child(4n-2)]:text-lg md:[&:nth-child(4n-2)]:text-base",
@@ -77,8 +112,8 @@ websitesRenderer.tablecell = (content, flags) => {
     "[&:nth-child(4n)]:col-span-full md:[&:nth-child(4n)]:col-auto [svg path]:fill-indigoBlue",
     // Border styles
     "[&:nth-child(4n)]:border-b [&:nth-last-child(-n+1)]:border-b-0 md:border-b md:[&:nth-last-child(-n+4)]:border-b-0 border-lightGray",
-    getAlignStyle(flags.align)
-  )}">${renderContent(content, flags)}</div>`;
+    getAlignStyle(cell.align)
+  )}">${content}</div>`;
 };
 
 const { platforms, websites, developerTools, securityKeys } = getReadMeData();
