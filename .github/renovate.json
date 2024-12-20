@@ -1,16 +1,16 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": ["github>bitwarden/renovate-config"],
-  "enabledManagers": ["github-actions", "npm"],
+  "enabledManagers": ["bun", "github-actions"],
   "packageRules": [
     {
-      "groupName": "gh minor",
-      "matchManagers": ["github-actions"],
+      "groupName": "bun minor",
+      "matchManagers": ["bun"],
       "matchUpdateTypes": ["minor", "patch"]
     },
     {
-      "groupName": "npm minor",
-      "matchManagers": ["npm"],
+      "groupName": "gh minor",
+      "matchManagers": ["github-actions"],
       "matchUpdateTypes": ["minor", "patch"]
     }
   ]
