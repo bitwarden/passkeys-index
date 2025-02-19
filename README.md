@@ -93,6 +93,7 @@ This is a living list. If you are aware of other solutions, websites or platform
 | ![logo](/public/logos/ibm.svg) | IBM Verify | [www.ibm.com/docs](https://www.ibm.com/docs/en/security-verify?topic=launchpad-managing-your-verify-authenticators) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/imo.svg) | imo | [imo.im](https://imo.im/) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/instacart.svg) | Instacart | [www.instacart.com](https://www.instacart.com/) | ![Login](/public/tags/login.svg "Login") |
+| ![logo](/public/logos/kit.svg) | Karlsruhe Institute of Technology (KIT) | [kit.edu](https://www.scc.kit.edu/dienste/18189.php) | ![Login](/public/tags/login.svg "Login") ![MFA](/public/tags/mfa.svg "MFA") |
 | ![logo](/public/logos/kayak.svg) | Kayak | [www.kayak.com](https://www.kayak.com/) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/kemba.svg) | KEMBA Financial Credit Union | [my.kemba.org](https://my.kemba.org/settings/security) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/kenwood.svg) | Kenwoodworld.com | [kenwoodworld.com](https://kenwoodworld.com) | ![Login](/public/tags/login.svg "Login") |
