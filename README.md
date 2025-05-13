@@ -103,6 +103,7 @@ This is a living list. If you are aware of other solutions, websites or platform
 | ![logo](/public/logos/linkedin.svg) | LinkedIn | [linkedin.com](https://www.linkedin.com/help/linkedin/answer/a1621596) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/lnk-bio.svg) | Lnk.Bio | [lnk.bio](https://lnk.bio/linkin/log-in-with-passkeys-to-lnkbio) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/login-gov.svg) | Login.gov | [login.gov](https://login.gov/help/get-started/authentication-methods/#security-key) | ![Login](/public/tags/login.svg "Login") |
+| ![logo](/public/logos/luxid.svg) | LuxID | [luxid.lu](https://www.luxid.lu/en/resources/passkeys) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/mangadex.svg) | Mangadex | [mangadex.org](https://mangadex.org/) | ![Login](/public/tags/login.svg "Login") ![MFA](/public/tags/mfa.svg "MFA") |
 | ![logo](/public/logos/marshmallow-qa.svg) | Marshmallow-qa\.com | [diverdown.wraptas.site](https://diverdown.wraptas.site/3ec9bbfd244d41149909d1cd5f8003ec) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/mercari.svg) | Mercari | [engineering.mercari.com](https://engineering.mercari.com/en/blog/entry/20230810-mercaris-passkey-adoption/) | ![Login](/public/tags/login.svg "Login") |
