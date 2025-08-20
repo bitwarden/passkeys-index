@@ -16,6 +16,8 @@ on:
 
 permissions: {}
 
+permissions: {}
+
 jobs:
   check-run:
     name: Check PR run
