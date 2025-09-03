@@ -1,10 +1,13 @@
 # [passkeys-index](https://passkeyindex.io/)
+
 Welcome to the passkey index, a community initiative to surface new websites and applications that support passkeys. This index is backed by security enthusiasts who want to share the newest and latest around passkeys.
 
 ## What are passkeys?
+
 A passkey, stored on your computer, phone, or password manager, is a FIDO credential utilized to unlock your online accounts. Enhancing security, it employs public key cryptography and only provides proof of ownership to your online account when you unlock your device.
 
 ### **Contribute to the broad adoption of passkeys!**
+
 This is a living list. If you are aware of other solutions, websites or platforms not listed here, please submit a PR!
 
 ### **Platforms** {#platforms}
@@ -30,14 +33,14 @@ This is a living list. If you are aware of other solutions, websites or platform
 
 | Logo | Site/Company name | Site URL | Features |
 | --- | --- | --- | ---: |
-| ![logo](/public/logos/0pass.svg) | 0pass | [0pass.com](https://0pass.com/) | ![Login](/public/tags/login.svg "Login") | 
+| ![logo](/public/logos/0pass.svg) | 0pass | [0pass.com](https://0pass.com/) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/abanca.svg) | ABANCA | [comunicacion.abanca.com](https://comunicacion.abanca.com/es/noticias/abanca-primer-banco-espanol-en-implantar-la-tecnologia-de-llaves-de-acceso-en-la-banca-movil-para-reforzar-la-seguridad-de-sus-clientes/) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/adobe.svg) | Adobe | [account.adobe.com/login](https://account.adobe.com/) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/aflac.svg) | Aflac Japan | [www.aflac.co.jp](https://www.aflac.co.jp/) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/affirm.svg) | Affirm | [helpcenter.affirm.com](https://helpcenter.affirm.com/s/article/Set-up-a-Passkey) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/air-new-zealand.svg) | Air New Zealand | [www.airnewzealand.com](https://www.airnewzealand.com/manage-multi-factor-authentication#passkeys) | ![Login](/public/tags/login.svg "Login") ![MFA](/public/tags/mfa.svg "MFA") |
 | ![logo](/public/logos/amazon.svg) | Amazon | [www.amazon.com](https://www.amazon.com/) | ![Login](/public/tags/login.svg "Login") |
-| ![logo](/public/logos/arpari.svg) | Arpari | [app.arpari.com/login](https://app.arpari.com/login) | ![Login](/public/tags/login.svg "Login") | 
+| ![logo](/public/logos/arpari.svg) | Arpari | [app.arpari.com/login](https://app.arpari.com/login) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/authgear.svg)| Authgear | [accounts.portal.authgearapps.com/login](https://accounts.portal.authgearapps.com/login) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/authentik.svg)| authentik | [docs.goauthentik.io](https://docs.goauthentik.io/docs/flow/stages/authenticator_validate/#passwordless-authentication) | ![Login](/public/tags/login.svg "Login") ![MFA](/public/tags/mfa.svg "MFA") |
 | ![logo](/public/logos/aws.svg)| Amazon Web Services (AWS) | [aws.amazon.com](https://aws.amazon.com/iam/features/mfa/?audit=2019q1) | ![Login](/public/tags/login.svg "Login") |
@@ -140,6 +143,7 @@ This is a living list. If you are aware of other solutions, websites or platform
 | ![logo](/public/logos/zoho.svg) | Zoho | [zoho.com](http://zoho.com/) | ![Login](/public/tags/login.svg "Login") ![MFA](/public/tags/mfa.svg "MFA") |
 | ![logo](/public/logos/walmart.svg) | Walmart | [walmart.com/help](https://www.walmart.com/help/article/passkeys/79bc4a57374146c497ebe3bf8d4f9b10) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/whatsapp.svg) | WhatsApp | [whatsapp.com](https://faq.whatsapp.com/1850567238795036/?cms_platform=android&helpref=platform_switcher) | ![Login](/public/tags/login.svg "Login") ![MFA](/public/tags/mfa.svg "MFA") |
+| ![logo](/public/logos/wise.svg) | Wise | [wise.com](https://wise.com/help/articles/4OTG2Z93XXyaurUviZRg5O/how-can-i-use-a-passkey) | ![Login](/public/tags/login.svg "Login") ![MFA](/public/tags/mfa.svg "MFA") |
 
 ### **Developer tools** {#developer-tools}
 
