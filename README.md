@@ -64,6 +64,7 @@ This is a living list. If you are aware of other solutions, websites or platform
 | ![logo](/public/logos/coinbase.svg) | Coinbase | [www.coinbase.com](https://www.coinbase.com/) | ![Login](/public/tags/login.svg "Login") ![MFA](/public/tags/mfa.svg "MFA") |
 | ![logo](/public/logos/corbado.svg) | Corbado | [app.corbado.com/signin](https://app.corbado.com/signin) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/credit-union-of-texas.svg) | Credit Union of Texas | [online.cutx.org](https://online.cutx.org/settings/security) | ![Login](/public/tags/login.svg "Login") |
+| ![logo](/public/logos/costco.svg) | Costco | [costco.com](https://www.costco.com/) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/cvs.svg) | CVS | [www.cvs.com](https://www.cvs.com/) | ![Login](/public/tags/login.svg "Login") ![MFA](/public/tags/mfa.svg "MFA") |
 | ![logo](/public/logos/cvs.svg) | CVS Caremark | [www.caremark.com](https://www.caremark.com/digital-fast/caremark-login-web/#/login) | ![Login](/public/tags/login.svg "Login") ![MFA](/public/tags/mfa.svg "MFA") |
 | ![logo](/public/logos/cyberark.svg) | CyberArk Identity | [docs.cyberark.com/](https://docs.cyberark.com/identity/Latest/en/Content/UserPortal/user-setup-passkey.htm?tocpath=End%20User%7CSet%20up%20authentication%7C_____6) | ![Login](/public/tags/login.svg "Login") ![MFA](/public/tags/mfa.svg "MFA") |
