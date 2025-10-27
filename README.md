@@ -158,3 +158,5 @@ This is a living list. If you are aware of other solutions, websites or platform
 | ![logo](/public/logos/fido.svg) | FIDO2 | Authentication |
 | ![logo](/public/logos/yubico.svg) | Yubico | Yubikey - Hardware Key |
 | ![logo](/public/logos/token2.svg) | Token2 | T2F2 - Hardware Key |
+
+
