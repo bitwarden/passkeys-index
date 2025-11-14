@@ -14,7 +14,7 @@
     "@astrojs/mdx": "4.0.3",
     "@astrojs/tailwind": "5.1.4",
     "@fontsource/dm-sans": "5.1.0",
-    "astro": "5.14.3",
+    "astro": "5.15.6",
     "astro-seo": "0.8.4",
     "classnames": "2.5.1",
     "marked": "15.0.4",
