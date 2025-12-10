@@ -122,6 +122,7 @@ This is a living list. If you are aware of other solutions, websites or platform
 | ![logo](/public/logos/roblox.svg) | Roblox | [roblox.com/login](https://roblox.com/login) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/salesforce.svg) | Salesforce | [help.salesforce.com](https://help.salesforce.com/s/articleView?id=sf.use_built_in_authenticators_as_a_verification_method.htm&type=5) | ![Login](/public/tags/login.svg "Login") ![MFA](/public/tags/mfa.svg "MFA") |
 | ![logo](/public/logos/samsung.svg) | Samsung | [samsung.com](https://www.samsung.com/uk/support/apps-services/how-to-create-and-use-a-passkey/) | ![Login](/public/tags/login.svg "Login") | ![MFA](/public/tags/mfa.svg "MFA") |
+| ![logo](/public/logos/seats_aero.svg) | seats.aero | [seats.aero](https://seats.aero/) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/shop.svg) | Shop Pay | [shop.app](https://shop.app) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/shopify.svg) | Shopify | [accounts.shopify.com/lookup](https://accounts.shopify.com/lookup) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/playstation.svg) | Sony Playstation | [www.playstation.com](https://www.playstation.com/en-us/passkey/) | ![Login](/public/tags/login.svg "Login") |
