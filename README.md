@@ -36,6 +36,7 @@ This is a living list. If you are aware of other solutions, websites or platform
 | ![logo](/public/logos/0pass.svg) | 0pass | [0pass.com](https://0pass.com/) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/abanca.svg) | ABANCA | [comunicacion.abanca.com](https://comunicacion.abanca.com/es/noticias/abanca-primer-banco-espanol-en-implantar-la-tecnologia-de-llaves-de-acceso-en-la-banca-movil-para-reforzar-la-seguridad-de-sus-clientes/) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/adobe.svg) | Adobe | [account.adobe.com/login](https://account.adobe.com/) | ![Login](/public/tags/login.svg "Login") |
+| ![logo](/public/logos/aero.zip.svg)| aero.zip | [aero.zip](https://aero.zip/faq/can-i-log-in-with-passkey) | ![Login](/public/tags/login.svg "Login") ![MFA](/public/tags/mfa.svg "MFA") |
 | ![logo](/public/logos/aflac.svg) | Aflac Japan | [www.aflac.co.jp](https://www.aflac.co.jp/) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/affirm.svg) | Affirm | [helpcenter.affirm.com](https://helpcenter.affirm.com/s/article/Set-up-a-Passkey) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/air-new-zealand.svg) | Air New Zealand | [www.airnewzealand.com](https://www.airnewzealand.com/manage-multi-factor-authentication#passkeys) | ![Login](/public/tags/login.svg "Login") ![MFA](/public/tags/mfa.svg "MFA") |
