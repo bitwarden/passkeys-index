@@ -21,7 +21,7 @@ jobs:
           persist-credentials: false
 
       - name: Install, build, and upload your site output
-        uses: withastro/action@44cbafd43567733e3b007918c6e0711480560516 # v3.0.0
+        uses: withastro/action@fc88a7002f0c62327f26fb1b15f2a1d581249278 # v5.1.0
 
   deploy:
     name: Deploy
