@@ -17,7 +17,7 @@
     "astro": "5.15.9",
     "astro-seo": "0.8.4",
     "classnames": "2.5.1",
-    "marked": "15.0.4",
+    "marked": "17.0.1",
     "tailwindcss": "3.4.17",
     "typescript": "5.7.2"
   }
