@@ -21,7 +21,7 @@ jobs:
           persist-credentials: false
 
       - name: Install, build, and upload your site output
-        uses: withastro/action@44cbafd43567733e3b007918c6e0711480560516 # v3.0.0
+        uses: withastro/action@b7d53628f8b666036b0238aadb0b984a2a489f26 # v6.1.1
 
   deploy:
     name: Deploy
@@ -37,4 +37,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@d6db90164ac5ed86f2b6aed7e0febac5b3c0c03e # v4.0.5
+        uses: actions/deploy-pages@cd2ce8fcbc39b97be8ca5fce6e763baed58fa128 # v5
