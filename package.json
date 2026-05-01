@@ -10,11 +10,11 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/check": "0.9.4",
-    "@astrojs/mdx": "4.0.3",
-    "@astrojs/tailwind": "5.1.4",
+    "@astrojs/check": "0.9.9",
+    "@astrojs/mdx": "5.0.4",
+    "@astrojs/tailwind": "6.0.2",
     "@fontsource/dm-sans": "5.1.0",
-    "astro": "6.1.6",
+    "astro": "6.2.1",
     "astro-seo": "0.8.4",
     "classnames": "2.5.1",
     "marked": "15.0.4",
