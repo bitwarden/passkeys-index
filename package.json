@@ -15,7 +15,7 @@
     "@astrojs/tailwind": "6.0.2",
     "@fontsource/dm-sans": "5.1.0",
     "astro": "6.2.1",
-    "astro-seo": "0.8.4",
+    "astro-seo": "1.1.0",
     "classnames": "2.5.1",
     "marked": "15.0.4",
     "tailwindcss": "3.4.17",
