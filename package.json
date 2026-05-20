@@ -11,14 +11,14 @@
   },
   "dependencies": {
     "@astrojs/check": "0.9.9",
-    "@astrojs/mdx": "5.0.4",
+    "@astrojs/mdx": "5.0.5",
     "@astrojs/tailwind": "6.0.2",
-    "@fontsource/dm-sans": "5.1.0",
-    "astro": "6.2.1",
+    "@fontsource/dm-sans": "5.2.8",
+    "astro": "6.3.2",
     "astro-seo": "0.8.4",
     "classnames": "2.5.1",
-    "marked": "15.0.4",
-    "tailwindcss": "3.4.17",
-    "typescript": "5.7.2"
+    "marked": "15.0.12",
+    "tailwindcss": "3.4.19",
+    "typescript": "5.9.3"
   }
 }
