@@ -13,7 +13,7 @@
     "@astrojs/check": "0.9.10",
     "@astrojs/mdx": "7.0.5",
     "@fontsource/dm-sans": "5.1.0",
-    "astro": "7.1.1",
+    "astro": "7.2.8",
     "astro-seo": "0.8.4",
     "autoprefixer": "10.5.4",
     "classnames": "2.5.1",
