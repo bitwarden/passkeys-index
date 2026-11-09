@@ -109,6 +109,7 @@ This is a living list. If you are aware of other solutions, websites or platform
 | ![logo](/public/logos/mercari.svg) | Mercari | [engineering.mercari.com](https://engineering.mercari.com/en/blog/entry/20230810-mercaris-passkey-adoption/) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/microsoft.svg) | Microsoft | [microsoft.com](https://microsoft.com/) | ![Login](/public/tags/login.svg "Login") ![MFA](/public/tags/mfa.svg "MFA") |
 | ![logo](/public/logos/money-forward.svg) | Money Forward ID | [id.moneyforward.com/sign_in](https://id.moneyforward.com/sign_in) | ![Login](/public/tags/login.svg "Login") |
+| ![logo](/public/logos/mygov.svg) | myGov | [my.gov.au](https://my.gov.au) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/namecheap.svg) | Namecheap | [www.namecheap.com](https://www.namecheap.com/support/knowledgebase/article.aspx/10102/45/how-can-i-use-the-u2f-method-for-twofactor-authentication/) | ![MFA](/public/tags/mfa.svg "MFA") |
 | ![logo](/public/logos/netfiles.svg) | netfiles | [www.netfiles.com](https://help.netfiles.de/en/creating-a-passkey-for-netfiles/) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/nintendo.svg) | Nintendo | [www.nintendo.com](https://www.nintendo.com/) | ![Login](/public/tags/login.svg "Login") |
@@ -119,6 +120,7 @@ This is a living list. If you are aware of other solutions, websites or platform
 | ![logo](/public/logos/paypal.svg) | PayPal | [www.paypal.com/signin](https://www.paypal.com/signin/) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/porkbun.svg) | porkbun | [kb.porkbun.com](https://kb.porkbun.com/article/119-how-to-secure-your-account-with-a-physical-security-key-using-webauthn) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/qapital.svg) | Qapital | [qapital.com](https://qapital.com/) | ![Login](/public/tags/login.svg "Login") |
+| ![logo](/public/logos/quickbooks.svg) | Quickbooks | [qbo.intuit.com](https://qbo.intuit.com) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/robinhood.svg) | Robinhood | [robinhood.com/login](https://robinhood.com/login) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/roblox.svg) | Roblox | [roblox.com/login](https://roblox.com/login) | ![Login](/public/tags/login.svg "Login") |
 | ![logo](/public/logos/salesforce.svg) | Salesforce | [help.salesforce.com](https://help.salesforce.com/s/articleView?id=sf.use_built_in_authenticators_as_a_verification_method.htm&type=5) | ![Login](/public/tags/login.svg "Login") ![MFA](/public/tags/mfa.svg "MFA") |
