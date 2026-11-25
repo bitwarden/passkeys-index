@@ -1,0 +1,3 @@
+[install]
+exact = true
+minimumReleaseAge = 518400  # 6 days

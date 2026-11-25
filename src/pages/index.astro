@@ -1,6 +1,7 @@
 ---
 import { marked, Renderer, type Tokens } from "marked";
 import cx from "classnames";
+import DOMPurify from "isomorphic-dompurify";
 
 import Layout from "../layout/Layout.astro";
 import Banner from "../components/Banner.astro";
@@ -13,10 +14,12 @@ export const prerender = true;
 
 // Shared renderers
 const iconImageRenderer: Renderer["image"] = ({ href, title, text }) => {
-  return `<img class="min-w-8 h-8" src="${href.replace("/public", "")}" alt="${text}" title="${title}" />`;
+  const raw = `<img class="min-w-8 h-8" src="${href.replace("/public", "")}" alt="${text}" title="${title}" />`;
+  return DOMPurify.sanitize(raw, { ALLOWED_TAGS: ["img"], ALLOWED_ATTR: ["class", "src", "alt", "title"] });
 };
 const responsiveUrlRenderer: Renderer["link"] = ({ href, title, text }) => {
-  return `<a href="${href}" title="${title}" target="_blank" rel="noopener noreferrer"><span class="hidden lg:block">${text}</span><span class="lg:hidden">Website</span></a>`;
+  const raw = `<a href="${href}" title="${title}" target="_blank" rel="noopener noreferrer"><span class="hidden lg:block">${text}</span><span class="lg:hidden">Website</span></a>`;
+  return DOMPurify.sanitize(raw, { ALLOWED_TAGS: ["a", "span"], ALLOWED_ATTR: ["href", "title", "target", "rel", "class"] });
 };
 const tableRowRenderer: Renderer["tablerow"] = (content) => {
   return `${content.text}`;
